@@ -5531,9 +5531,9 @@
         "Type": "Attacking Summoner",
         "Image": "rbxassetid://131447165249179",
         "Rarity": "Secret",
-        "PlacePrice": 8000,
+        "PlacePrice": 0,
         "Offset": 0.3,
-        "Max": 2,
+        "Max": 120,
         "Passive": {"Name": "Fazbear Family", "Description": "Spawns armored cars to help assist him (Concept by Nogurt)"},
         "hitboxOffset": {
             "X": 0,
