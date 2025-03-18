@@ -5533,7 +5533,7 @@
         "Rarity": "Secret",
         "PlacePrice": 0,
         "Offset": 0.3,
-        "Max": 120,
+        "Max": 3,
         "Passive": {"Name": "Fazbear Family", "Description": "Spawns armored cars to help assist him (Concept by Nogurt)"},
         "hitboxOffset": {
             "X": 0,
