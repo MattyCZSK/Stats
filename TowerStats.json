@@ -308,6 +308,45 @@
             }
         ]
     },
+        "Ignited Bonnie": {
+        "Type": "Single",
+        "Image": "rbxassetid://16632217188",
+        "Rarity": "Secret",
+        "PlacePrice": 100,
+        "Max": 3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Offset": 0.25,
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 22,
+                "Damage": 2500,
+                "Cooldown": 0.05
+            },
+            {
+                "Price": 35000,
+                "Range": 28,
+                "Damage": 3000,
+                "Cooldown": 0.05
+            },
+            {
+                "Price": 50000,
+                "Range": 32,
+                "Damage": 4000,
+                "Cooldown": 0.05
+            },
+            {
+                "Price": 70000,
+                "Range": 35,
+                "Damage": 5000,
+                "Cooldown": 0.05
+            }
+        ]
+    },
     "Shadow Bonnie": {
         "Type": "AOE",
         "Image": "rbxassetid://16781197179",
