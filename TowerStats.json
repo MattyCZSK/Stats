@@ -1937,7 +1937,7 @@
         "Type": "Continuous",
         "Image": "rbxassetid://18363569957",
         "Rarity": "Secret",
-        "PlacePrice": 10000,
+        "PlacePrice": 4000,
         "Offset": 0.35,
         "Max": 2,
         "hitboxOffset": {
@@ -1948,9 +1948,9 @@
         "Upgrades": [
             {
                 "Price": 0,
-                "Range": 7.5,
-                "Damage": 10000,
-                "Cooldown": 0
+                "Range": 15,
+                "Damage": 25,
+                "Cooldown": 0.05
             },
             {
                 "Price": 5000,
@@ -2212,8 +2212,8 @@
         "Type": "Continuous",
         "Image": "rbxassetid://18673234413",
         "Rarity": "Secret",
-        "PlacePrice": 300,
-        "Max": 1,
+        "PlacePrice": 10000,
+        "Max": 2,
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
@@ -2222,35 +2222,35 @@
         "Upgrades": [
             {
                 "Price": 0,
-                "Range": 15,
-                "Damage": 25,
-                "Cooldown": 0,
-                "Ammo": 999,
-                "ReloadTime": 0
-            },
-            {
-                "Price": 3000,
-                "Range": 35,
-                "Damage":125,
-                "Cooldown": 0.05,
-                "Ammo": 999,
-                "ReloadTime": 0
+                "Range": 18,
+                "Damage": 35,
+                "Cooldown": 0.25,
+                "Ammo": 50,
+                "ReloadTime": 1.5
             },
             {
                 "Price": 15000,
-                "Range": 45,
-                "Damage": 500,
-                "Cooldown": 0.1,
-                "Ammo": 999,
-                "ReloadTime": 0
+                "Range": 20,
+                "Damage": 45,
+                "Cooldown": 0.125,
+                "Ammo": 50,
+                "ReloadTime": 1.5
             },
             {
-                "Price": 50000,
-                "Range": 65,
-                "Damage": 12500,
-                "Cooldown": 0.25,
-                "Ammo": 999,
-                "ReloadTime": 0
+                "Price": 20000,
+                "Range": 23,
+                "Damage": 55,
+                "Cooldown": 0.1,
+                "Ammo": 50,
+                "ReloadTime": 1.5
+            },
+            {
+                "Price": 25000,
+                "Range": 26,
+                "Damage": 70,
+                "Cooldown": 0.05,
+                "Ammo": 60,
+                "ReloadTime": 1.5
             }
         ]
     },
@@ -2703,9 +2703,9 @@
         "Type": "Single",
         "Image": "rbxassetid://18886487842",
         "Rarity": "Nightmare",
-        "PlacePrice": 7500,
+        "PlacePrice": 0,
         "Offset": 0,
-        "Max": 3,
+        "Max": 1,
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
@@ -2714,9 +2714,9 @@
         "Upgrades": [
             {
                 "Price": 0,
-                "Range": 20,
-                "Damage": 400,
-                "Cooldown": 0.7
+                "Range": 999,
+                "Damage": 9999999,
+                "Cooldown": 0
             },
             {
                 "Price": 10000,
