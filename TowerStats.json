@@ -775,10 +775,10 @@
         ]
     },
     "Plane Boy": {
-        "Type": "AOE",
+        "Type": "Single",
         "Image": "rbxassetid://17689713814",
         "Rarity": "Secret",
-        "PlacePrice": 0,
+        "PlacePrice": 20000,
         "Offset": 2,
         "Max": 2,
         "hitboxOffset": {
@@ -790,13 +790,9 @@
             {
                 "Price": 0,
                 "Range": 25,
-                "Damage": 0,
-                "Cooldown": 0
-                "Poison": 50
-                "PoisonLength": 999
-                "Slow": 0.25
-                "SlowTime": 999
-                
+                "Damage": 35,
+                "Cooldown": 0.05
+            
             },
             {
                 "Price": 30000,
