@@ -852,7 +852,7 @@
         ]
     },
     "Pirate Withered Foxy": {
-        "Type": "Single",
+        "Type": "AOE",
         "Image": "rbxassetid://17851205149",
         "Rarity": "Secret",
         "PlacePrice": 500,
