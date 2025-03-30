@@ -2288,7 +2288,7 @@
                 "Price": 0,
                 "Range": 15,
                 "Damage": 100,
-                "Cooldown": 4,
+                "Cooldown": 0,
                 "Poison": 10,
                 "PoisonLength": 3
             },
