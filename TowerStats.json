@@ -2286,7 +2286,7 @@
         "Upgrades": [
             {
                 "Price": 0,
-                "Range": 15,
+                "Range": 150,
                 "Damage": 100,
                 "Cooldown": 0,
                 "Poison": 10,
