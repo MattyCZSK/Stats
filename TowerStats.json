@@ -2596,6 +2596,45 @@
             }
         ]
     },
+    "Fortified Endo 02": {
+        "Type": "Cone AOE",
+        "Image": "rbxassetid://86634335404738",
+        "Rarity": "Secret",
+        "PlacePrice": 500,
+        "Offset": 0,
+        "Max": 4,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 20,
+                "Damage": 60,
+                "Cooldown": 0.2
+            },
+            {
+                "Price": 700,
+                "Range": 22,
+                "Damage": 100,
+                "Cooldown": 0.2
+            },
+            {
+                "Price": 900,
+                "Range": 24,
+                "Damage": 150,
+                "Cooldown": 0.2
+            },
+            {
+                "Price": 1200,
+                "Range": 25,
+                "Damage": 200,
+                "Cooldown": 0.2
+            }
+        ]
+    },
     "Scott": {
         "Type": "Splash",
         "Image": "rbxassetid://18864498819",
