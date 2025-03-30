@@ -692,45 +692,6 @@
             }
         ]
     },
-        "Turret Golden Freddy": {
-        "Type": "Single",
-        "Image": "rbxassetid://16781122207",
-        "Rarity": "Secret",
-        "PlacePrice": 250,
-        "Max": 5,
-        "hitboxOffset": {
-            "X": 0,
-            "Y": 0,
-            "Z": 0
-        },
-        "Upgrades": [
-            {
-                "Price": 0,
-                "Range": 25,
-                "Damage": 250,
-                "Cooldown": 0.5
-            },
-            {
-                "Price": 500,
-                "Range": 30,
-                "Damage": 500,
-                "Cooldown": 0.375
-            },
-            {
-                "Price": 750,
-                "Range": 35,
-                "Damage": 1250,
-                "Cooldown": 0.25
-            },
-            {
-                "Price": 1250,
-                "Range": 50,
-                "Damage": 2500,
-                "Cooldown": 0
-            }
-        ]
-    },
-
     "Endo": {
         "Type": "Support",
         "Image": "rbxassetid://17851638702",
@@ -890,6 +851,44 @@
             }
         ]
     },
+    "Torture Bonnie": {
+        "Type": "AOE",
+        "Image": "rbxassetid://17689695988",
+        "Rarity": "Secret",
+        "PlacePrice": 0,
+        "Max": 999,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 999,
+                "Damage": 1,
+                "Cooldown": 0
+            },
+            {
+                "Price": 0,
+                "Range": 999,
+                "Damage": 2.5,
+                "Cooldown": 0
+            },
+            {
+                "Price": 0,
+                "Range": 999,
+                "Damage": 5,
+                "Cooldown": 0
+            },
+            {
+                "Price": 0,
+                "Range": 999,
+                "Damage": 25,
+                "Cooldown": 0
+            }
+        ]
+    },
     "Pirate Withered Foxy": {
         "Type": "Single",
         "Image": "rbxassetid://17851205149",
@@ -926,45 +925,6 @@
                 "Range": 20,
                 "Damage": 50,
                 "Cooldown": 0.3
-            }
-        ]
-    },
-     "Pee Pee Withered Foxy": {
-        "Type": "Single",
-        "Image": "rbxassetid://17851205149",
-        "Rarity": "Secret",
-        "PlacePrice": 100,
-        "Offset": 0.55,
-        "Max": 3,
-        "hitboxOffset": {
-            "X": 0,
-            "Y": 0,
-            "Z": 0
-        },
-        "Upgrades": [
-            {
-                "Price": 0,
-                "Range": 15,
-                "Damage": 50,
-                "Cooldown": 0.5
-            },
-            {
-                "Price": 250,
-                "Range": 20,
-                "Damage": 75,
-                "Cooldown": 0.35
-            },
-            {
-                "Price": 400,
-                "Range": 25,
-                "Damage": 100,
-                "Cooldown": 0.15
-            },
-            {
-                "Price": 650,
-                "Range": 30,
-                "Damage": 1,
-                "Cooldown": 0.01
             }
         ]
     },
