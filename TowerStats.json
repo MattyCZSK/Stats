@@ -2272,7 +2272,7 @@
         ]
     },
     "Witch Toy Chica": {
-        "Type": "Poison",
+        "Type": "Poison + Splash",
         "Image": "rbxassetid://18363391561",
         "Rarity": "Secret",
         "PlacePrice": 500,
