@@ -817,8 +817,8 @@
         "Type": "Single",
         "Image": "rbxassetid://17690383931",
         "Rarity": "Secret",
-        "PlacePrice": 0,
-        "Max": 999,
+        "PlacePrice": 300,
+        "Max": 1,
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
@@ -829,26 +829,26 @@
             {
                 "Price": 0,
                 "Range": 15,
-                "Damage": 25,
-                "Cooldown": 0
+                "Damage": 100,
+                "Cooldown": 0.05
             },
             {
-                "Price": 300,
-                "Range": 20,
-                "Damage": 50,
-                "Cooldown": 0
+                "Price": 3000,
+                "Range": 25,
+                "Damage": 350,
+                "Cooldown": 0.1
             },
             {
-                "Price": 750,
-                "Range": 20,
-                "Damage": 125,
-                "Cooldown": 0
+                "Price": 15000,
+                "Range": 35,
+                "Damage": 1000,
+                "Cooldown": 0.2
             },
             {
-                "Price": 1500,
-                "Range": 30,
-                "Damage": 375,
-                "Cooldown": 0
+                "Price": 50000,
+                "Range": 50,
+                "Damage": 2500,
+                "Cooldown": 0.25
             }
         ]
     },
