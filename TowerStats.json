@@ -2394,6 +2394,45 @@
             }
         ]
     },
+    "Bomber Boy": {
+        "Type": "Splash",
+        "Image": "rbxassetid://105906895649413",
+        "Rarity": "Secret",
+        "PlacePrice": 25000,
+        "Offset": 0,
+        "Max": 3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 25,
+                "Damage": 200,
+                "Cooldown": 0.3
+            },
+            {
+                "Price": 30000,
+                "Range": 27,
+                "Damage": 300,
+                "Cooldown": 0.27
+            },
+            {
+                "Price": 40000,
+                "Range": 34,
+                "Damage": 400,
+                "Cooldown": 0.23
+            },
+            {
+                "Price": 50000,
+                "Range": 35,
+                "Damage": 500,
+                "Cooldown": 0.2
+            }
+        ]
+    },
     "Rocketeer Mangle": {
         "Type": "Explosion",
         "Image": "rbxassetid://18673926504",
