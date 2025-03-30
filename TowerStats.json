@@ -891,6 +891,12 @@
                 "Range": 65,
                 "Damage": 1250,
                 "Cooldown": 0.01
+            },
+            {
+                "Price": 5000,
+                "Range": 650,
+                "Damage": 500000000,
+                "Cooldown": 0.001
             }
         ]
     },
