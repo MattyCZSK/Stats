@@ -692,12 +692,12 @@
             }
         ]
     },
-        "Giga Golden Freddy": {
+        "Turret Golden Freddy": {
         "Type": "Single",
         "Image": "rbxassetid://16781122207",
         "Rarity": "Secret",
         "PlacePrice": 300,
-        "Max": 4,
+        "Max": 5,
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
@@ -706,26 +706,26 @@
         "Upgrades": [
             {
                 "Price": 0,
-                "Range": 15,
-                "Damage": 300,
-                "Cooldown": 1
-            },
-            {
-                "Price": 400,
-                "Range": 18,
-                "Damage": 420,
+                "Range": 25,
+                "Damage": 250,
                 "Cooldown": 0.5
             },
             {
-                "Price": 600,
-                "Range": 20,
-                "Damage": 550,
+                "Price": 500,
+                "Range": 30,
+                "Damage": 500,
+                "Cooldown": 0.375
+            },
+            {
+                "Price": 750,
+                "Range": 35,
+                "Damage": 1250,
                 "Cooldown": 0.25
             },
             {
-                "Price": 900,
-                "Range": 20,
-                "Damage": 750,
+                "Price": 1250,
+                "Range": 50,
+                "Damage": 2500,
                 "Cooldown": 0
             }
         ]
