@@ -1009,8 +1009,8 @@
         "Type": "Slow",
         "Image": "rbxassetid://18255590026",
         "Rarity": "Rare",
-        "PlacePrice": 0,
-        "Max": 22,
+        "PlacePrice": 800,
+        "Max": 3,
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
@@ -1020,33 +1020,33 @@
         "Upgrades": [
             {
                 "Price": 0,
-                "Range": 195,
-                "Damage": 2131231220,
-                "Cooldown": 0,
+                "Range": 15,
+                "Damage": 20,
+                "Cooldown": 1,
                 "Slow": 0.70,
                 "SlowTime": 1
             },
             {
-                "Price": 0,
-                "Range": 196,
-                "Damage": 2222131231220225,
-                "Cooldown": 0,
+                "Price": 1200,
+                "Range": 16,
+                "Damage": 25,
+                "Cooldown": 1,
                 "Slow": 0.70,
                 "SlowTime": 1
             },
             {
-                "Price": 0,
-                "Range": 197,
-                "Damage": 32131231220213123122021312312200,
-                "Cooldown": 0,
+                "Price": 1600,
+                "Range": 17,
+                "Damage": 30,
+                "Cooldown": 1,
                 "Slow": 0.7,
                 "SlowTime": 1
             },
             {
-                "Price": 0,
-                "Range": 198,
-                "Damage": 321312312202131231220213123122021312312200,
-                "Cooldown": 0,
+                "Price": 2000,
+                "Range": 18,
+                "Damage": 30,
+                "Cooldown": 0.8,
                 "Slow": 0.6,
                 "SlowTime": 1
             }
@@ -1133,8 +1133,8 @@
         "Type": "Pierce",
         "Image": "rbxassetid://18255813345",
         "Rarity": "Secret",
-        "PlacePrice": 7000,
-        "Max": 3,
+        "PlacePrice": 5000,
+        "Max": 4,
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
@@ -1145,25 +1145,25 @@
             {
                 "Price": 0,
                 "Range": 25,
-                "Damage": 150,
+                "Damage": 500,
                 "Cooldown": 3
             },
             {
-                "Price": 12000,
+                "Price": 7500,
                 "Range": 27,
-                "Damage": 200,
+                "Damage": 650,
                 "Cooldown": 2.5
             },
             {
-                "Price": 15000,
+                "Price": 10000,
                 "Range": 30,
-                "Damage": 300,
+                "Damage": 800,
                 "Cooldown": 2
             },
             {
-                "Price": 20000,
+                "Price": 12500,
                 "Range": 30,
-                "Damage": 350,
+                "Damage": 900,
                 "Cooldown": 2
             }
         ]
@@ -2394,45 +2394,6 @@
             }
         ]
     },
-    "Bomber Boy": {
-        "Type": "Splash",
-        "Image": "rbxassetid://105906895649413",
-        "Rarity": "Secret",
-        "PlacePrice": 25000,
-        "Offset": 0,
-        "Max": 3,
-        "hitboxOffset": {
-            "X": 0,
-            "Y": 0,
-            "Z": 0
-        },
-        "Upgrades": [
-            {
-                "Price": 0,
-                "Range": 25,
-                "Damage": 200,
-                "Cooldown": 0.3
-            },
-            {
-                "Price": 30000,
-                "Range": 27,
-                "Damage": 300,
-                "Cooldown": 0.27
-            },
-            {
-                "Price": 40000,
-                "Range": 34,
-                "Damage": 400,
-                "Cooldown": 0.23
-            },
-            {
-                "Price": 50000,
-                "Range": 35,
-                "Damage": 500,
-                "Cooldown": 0.2
-            }
-        ]
-    },
     "Rocketeer Mangle": {
         "Type": "Explosion",
         "Image": "rbxassetid://18673926504",
@@ -2477,7 +2438,7 @@
         "Image": "rbxassetid://18673330553",
         "Rarity": "Nightmare",
         "PlacePrice": 10000,
-        "Max": 2,
+        "Max": 3,
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
@@ -2644,6 +2605,87 @@
                 "Range": 45,
                 "Damage": 4000,
                 "Cooldown": 2
+            }
+        ]
+    },
+    "Glitched Freddy": {
+        "Type": "Single",
+        "Image": "",
+        "Rarity": "Secret",
+        "PlacePrice": 600,
+        "Offset": 0,
+        "Max": 3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 15,
+                "Damage": 100,
+                "Cooldown": 1
+            }
+        ]
+    },
+    "Glitched Puppeteer": {
+        "Type": "Splash",
+        "Image": "",
+        "Rarity": "Secret",
+        "PlacePrice": 600,
+        "Offset": 0.7,
+        "Max": 3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 30,
+                "Damage": 500,
+                "Cooldown": 3
+            },
+            {
+                "Price": 10,
+                "Range": 30,
+                "Damage": 1000,
+                "Cooldown": 3
+            },
+            {
+                "Price": 20,
+                "Range": 30,
+                "Damage": 1500,
+                "Cooldown": 3
+            },
+            {
+                "Price": 30,
+                "Range": 30,
+                "Damage": 100,
+                "Cooldown": 3
+            }
+        ]
+    },
+    "Glitched CupCake": {
+        "Type": "AOE",
+        "Image": "",
+        "Rarity": "Secret",
+        "PlacePrice": 600,
+        "Offset": 0,
+        "Max": 3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 15,
+                "Damage": 100,
+                "Cooldown": 1
             }
         ]
     }
