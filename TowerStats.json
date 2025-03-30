@@ -2908,11 +2908,11 @@
             }
         ]
     },
-     "Goliath Endo Freddy": {
+    "Goliath Endo Freddy": {
         "Type": "AOE",
         "Image": "rbxassetid://112659672284119",
         "Rarity": "Nightmare",
-        "PlacePrice": 0,
+        "PlacePrice": 50000,
         "Offset": 0,
         "Max": 2,
         "hitboxOffset": {
@@ -2923,9 +2923,9 @@
         "Upgrades": [
             {
                 "Price": 0,
-                "Range": 999,
-                "Damage": 99999999999,
-                "Cooldown": 0
+                "Range": 25,
+                "Damage": 5000,
+                "Cooldown": 3.5
             },
             {
                 "Price": 60000,
