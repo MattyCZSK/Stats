@@ -1937,7 +1937,7 @@
         "Type": "Continuous",
         "Image": "rbxassetid://18363569957",
         "Rarity": "Secret",
-        "PlacePrice": 4000,
+        "PlacePrice": 10000,
         "Offset": 0.35,
         "Max": 2,
         "hitboxOffset": {
@@ -1948,9 +1948,9 @@
         "Upgrades": [
             {
                 "Price": 0,
-                "Range": 15,
-                "Damage": 25,
-                "Cooldown": 0.05
+                "Range": 7.5,
+                "Damage": 10000,
+                "Cooldown": 0
             },
             {
                 "Price": 5000,
