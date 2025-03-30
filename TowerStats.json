@@ -231,10 +231,10 @@
             }
         ]
     },
-     "What The Fox": {
+     "What The Foxy": {
         "Type": "Dual",
         "Image": "rbxassetid://16632135968",
-        "Rarity": "Secret",
+        "Rarity": "Epic",
         "PlacePrice": 0,
         "Max": 1,
         "hitboxOffset": {
@@ -713,10 +713,10 @@
             }
         ]
     },
-    "Goldilox": {
+    "Goldielox": {
         "Type": "Splash",
         "Image": "rbxassetid://16781122207",
-        "Rarity": "Nightmare",
+        "Rarity": "Secret",
         "PlacePrice": 300,
         "Max": 1,
         "hitboxOffset": {
