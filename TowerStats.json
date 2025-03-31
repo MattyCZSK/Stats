@@ -1362,7 +1362,9 @@
                 "Range": 22,
                 "Damage": 250,
                 "Cooldown": 3.5
-
+            }
+        ]
+    },
     "SpringTrap": {
         "Type": "Pierce",
         "Image": "rbxassetid://18356146630",
