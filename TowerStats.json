@@ -1341,15 +1341,15 @@
         "Upgrades": [
             {
                 "Price": 0,
-                "Range": 999,
-                "Damage": 200,
-                "Cooldown": 0
+                "Range": 18,
+                "Damage": 150,
+                "Cooldown": 4
             },
             {
-                "Price": 0,
-                "Range": 999,
-                "Damage": 1000,
-                "Cooldown": 0
+                "Price": 500,
+                "Range": 18,
+                "Damage": 150,
+                "Cooldown": 3.8
             },
             {
                 "Price": 800,
