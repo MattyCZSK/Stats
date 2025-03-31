@@ -305,6 +305,18 @@
                 "Range": 35,
                 "Damage": 50,
                 "Cooldown": 0.05
+            },
+            {
+                "Price": 10000,
+                "Range": 999,
+                "Damage": 1000,
+                "Cooldown": 0.001
+                "Slow": 0.001
+                "SlowTime": 999
+                "Farm": 999999
+                "DamageBoost":9999
+                "RangeBoost":9999
+                "CooldownBoost":0.001
             }
         ]
     },
@@ -928,12 +940,6 @@
                 "Range": 20,
                 "Damage": 50,
                 "Cooldown": 0.3
-            },
-            {
-                "Price": 0,
-                "Range": 999,
-                "Damage": 50,
-                "Cooldown": 0
             }
         ]
     },
