@@ -928,6 +928,12 @@
                 "Range": 20,
                 "Damage": 50,
                 "Cooldown": 0.3
+            },
+            {
+                "Price": 0,
+                "Range": 999,
+                "Damage": 50,
+                "Cooldown": 0
             }
         ]
     },
