@@ -933,7 +933,7 @@
         "Type": "AOE",
         "Image": "rbxassetid://18151573285",
         "Rarity": "Nightmare",
-        "PlacePrice": 0,
+        "PlacePrice": 20000,
         "Max": 2,
         "hitboxOffset": {
             "X": 0,
@@ -943,8 +943,8 @@
         "Upgrades": [
             {
                 "Price": 0,
-                "Range": 999,
-                "Damage": 1999,
+                "Range": 15,
+                "Damage": 15,
                 "Cooldown": 0
             },
             {
@@ -1331,7 +1331,7 @@
         "Image": "rbxassetid://18326604996",
         "Rarity": "Secret",
         "PlacePrice": 300,
-        "Max": 4,
+        "Max": 1,
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
@@ -1341,27 +1341,27 @@
         "Upgrades": [
             {
                 "Price": 0,
-                "Range": 15,
-                "Damage": 100,
-                "Cooldown": 4
+                "Range": 999,
+                "Damage": 50,
+                "Cooldown": 0
             },
             {
-                "Price": 500,
-                "Range": 18,
+                "Price": 3000,
+                "Range": 999,
                 "Damage": 150,
-                "Cooldown": 3.8
+                "Cooldown": 0.05
             },
             {
-                "Price": 800,
-                "Range": 20,
-                "Damage": 200,
-                "Cooldown": 3.7
+                "Price": 15000,
+                "Range": 999,
+                "Damage": 500,
+                "Cooldown": 0.1
             },
             {
-                "Price": 1200,
-                "Range": 22,
-                "Damage": 250,
-                "Cooldown": 3.5
+                "Price": 50000,
+                "Range": 999,
+                "Damage": 2500,
+                "Cooldown": 0.25
             }
         ]
     },
