@@ -1173,7 +1173,7 @@
         "Image": "rbxassetid://18256011276",
         "Rarity": "Nightmare",
         "PlacePrice": 10000,
-        "Max": 2,
+        "Max": 3,
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
@@ -1956,7 +1956,7 @@
         "Rarity": "Secret",
         "PlacePrice": 4000,
         "Offset": 0.45,
-        "Max": 3,
+        "Max": 4,
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
@@ -1972,19 +1972,19 @@
             {
                 "Price": 5000,
                 "Range": 15,
-                "Damage": 35,
+                "Damage": 38,
                 "Cooldown": 0.05
             },
             {
                 "Price": 6000,
                 "Range": 20,
-                "Damage": 40,
+                "Damage": 45,
                 "Cooldown": 0.05
             },
             {
                 "Price": 7000,
                 "Range": 20,
-                "Damage": 50,
+                "Damage": 55,
                 "Cooldown": 0.05
             }
         ]
@@ -2688,19 +2688,19 @@
                 "Price": 20000,
                 "Range": 33,
                 "Damage": 4750,
-                "Cooldown": 3.85
+                "Cooldown": 4
             },
             {
                 "Price": 25000,
                 "Range": 36,
                 "Damage": 5500,
-                "Cooldown": 3.7
+                "Cooldown": 4
             },
             {
                 "Price": 30000,
                 "Range": 40,
                 "Damage": 6500,
-                "Cooldown": 3.5
+                "Cooldown": 4
             }
         ]
     },
