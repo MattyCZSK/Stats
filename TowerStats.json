@@ -4041,6 +4041,298 @@
             }
         ]
     },
+    "Ignited Chica": {
+        "Type": "Stun",
+        "Image": "rbxassetid://16632209265",
+        "Rarity": "Rare",
+        "PlacePrice": 500,
+        "Max": 2,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 10,
+                "Damage": 250,
+                "Cooldown": 1
+            },
+            {
+                "Price": 800,
+                "Range": 12,
+                "Damage": 500,
+                "Cooldown": 1
+            },
+            {
+                "Price": 1200,
+                "Range": 15,
+                "Damage": 1500,
+                "Cooldown": 1
+            },
+            {
+                "Price": 1800,
+                "Range": 20,
+                "Damage": 2500,
+                "Cooldown": 0.75
+            }
+        ]
+    },
+"Ignited Freddy": {
+        "Type": "Single",
+        "Image": "rbxassetid://16632135968",
+        "Rarity": "Epic",
+        "PlacePrice": 5000,
+        "Max": 3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Offset": 0.7,
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 15,
+                "Damage": 1500,
+                "Cooldown": 1
+            },
+            {
+                "Price": 7500,
+                "Range": 18,
+                "Damage": 2000,
+                "Cooldown": 1
+            },
+            {
+                "Price": 10000,
+                "Range": 20,
+                "Damage": 3500,
+                "Cooldown": 0.75
+            },
+            {
+                "Price": 15000,
+                "Range": 20,
+                "Damage": 5000,
+                "Cooldown": 0.5
+            }
+        ]
+    },
+"Ignited Foxy": {
+        "Type": "Melee",
+        "Image": "rbxassetid://16632239120",
+        "Rarity": "Mythic",
+        "PlacePrice": 15000,
+        "Max": 3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 10,
+                "Damage": 2500,
+                "Cooldown": 0.75
+            },
+            {
+                "Price": 20000,
+                "Range": 10,
+                "Damage": 3500,
+                "Cooldown": 0.5
+            },
+            {
+                "Price": 25000,
+                "Range": 15,
+                "Damage": 5000,
+                "Cooldown": 0.35
+            },
+            {
+                "Price": 35000,
+                "Range": 15,
+                "Damage": 7500,
+                "Cooldown": 0.25
+            }
+        ]
+    },
+"Ignited Bonnie": {
+        "Type": "Single",
+        "Image": "rbxassetid://16632217188",
+        "Rarity": "Secret",
+        "PlacePrice": 50000,
+        "Max": 3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Offset": 0.25,
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 35,
+                "Damage": 2500,
+                "Cooldown": 0.1
+            },
+            {
+                "Price": 60000,
+                "Range": 45,
+                "Damage": 3500,
+                "Cooldown": 0.1
+            },
+            {
+                "Price": 75000,
+                "Range": 55,
+                "Damage": 5000,
+                "Cooldown": 0.1
+            },
+            {
+                "Price": 100000,
+                "Range": 65,
+                "Damage": 7500,
+                "Cooldown": 0.1
+            }
+        ]
+    },
+"Ignited Golden Freddy": {
+        "Type": "Slow",
+        "Image": "rbxassetid://16781122207",
+        "Rarity": "Secret",
+        "PlacePrice": 5000,
+        "Max": 5,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 10,
+                "Damage": 20000,
+                "Cooldown": 2
+                "Slow": 0.5
+                "SlowTime": 999
+            },
+            {
+                "Price": 6500,
+                "Range": 15,
+                "Damage": 30000,
+                "Cooldown": 1.5
+                "Slow": 0.5
+                "SlowTime": 999
+            },
+            {
+                "Price": 8500,
+                "Range": 20,
+                "Damage": 50000,
+                "Cooldown": 1.25
+                "Slow": 0.5
+                "SlowTime": 999
+            },
+            {
+                "Price": 12500,
+                "Range": 25,
+                "Damage": 75000,
+                "Cooldown": 1
+                "Slow": 0.5
+                "SlowTime": 999
+            }
+        ]
+    },
+"Ignited Shadow Freddy": {
+        "Type": "AOE",
+        "Image": "rbxassetid://16781197179",
+        "Rarity": "Nightmare",
+        "PlacePrice": 15000,
+        "Max": 2,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 20,
+                "Damage": 500,
+                "Cooldown": 0.05
+            },
+            {
+                "Price": 27500,
+                "Range": 25,
+                "Damage": 1250,
+                "Cooldown": 0.05
+            },
+            {
+                "Price": 45000,
+                "Range": 30,
+                "Damage": 3000,
+                "Cooldown": 0.05
+            },
+            {
+                "Price": 60000,
+                "Range": 35,
+                "Damage": 6500,
+                "Cooldown": 0.05
+            }
+        ]
+    },
+"Creation": {
+        "Type": "Pierce + Slow",
+        "Image": "rbxassetid://16781197179",
+        "Rarity": "Nightmare",
+        "PlacePrice": 50000,
+        "Max": 2,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 20,
+                "Damage": 25000,
+                "Cooldown": 2
+                "Slow": 0.15
+                "SlowTime": 2.5
+            },
+            {
+                "Price": 67500,
+                "Range": 25,
+                "Damage": 50000,
+                "Cooldown": 1.5
+                "Slow": 0.15
+                "SlowTime": 10
+            },
+            {
+                "Price": 89000,
+                "Range": 30,
+                "Damage": 75000,
+                "Cooldown": 1
+                "Slow": 0.15
+                "SlowTime": 10
+            },
+            {
+                "Price": 135000,
+                "Range": 35,
+                "Damage": 125000,
+                "Cooldown": 0.5
+                "Slow": 0.15
+                "SlowTime": 10
+            },
+            {
+                "Price": 200000,
+                "Range": 35,
+                "Damage": 250000,
+                "Cooldown": 0.25
+                "Slow": 0.15
+                "SlowTime": 10
+            }
+        ]
+    },
     "Fractured Bonnie": {
         "Type": "Continuous",
         "Image": "rbxassetid://122905004125419",
