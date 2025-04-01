@@ -2667,6 +2667,58 @@
             }
         ]
     },
+     "Hammurger Scott": {
+        "Type": "Splash",
+        "Image": "rbxassetid://73252095378543",
+        "Rarity": "Secret",
+        "PlacePrice": 7500,
+        "Offset": 1.25,
+        "Max": 1,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 25,
+                "Damage": 10000,
+                "Cooldown": 3.5
+            },
+
+            {
+                "Price": 12500,
+                "Range": 28,
+                "Damage": 16000,
+                "Cooldown": 3.4
+            },
+            {
+                "Price": 15000,
+                "Range": 31,
+                "Damage": 2200,
+                "Cooldown": 3.3
+            },
+            {
+                "Price": 22500,
+                "Range": 34,
+                "Damage": 28000,
+                "Cooldown": 3.2
+            },
+            {
+                "Price": 40000,
+                "Range": 37,
+                "Damage": 34000,
+                "Cooldown": 3.1
+            },
+            {
+                "Price": 50000,
+                "Range": 45,
+                "Damage": 4000,
+                "Cooldown": 2.5
+            }
+        ]
+    },
     "Circuit Breaker Freddy": {
         "Type": "Single",
         "Image": "rbxassetid://18886487842",
