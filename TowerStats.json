@@ -2667,6 +2667,58 @@
             }
         ]
     },
+    "Animdude": {
+        "Type": "Splash",
+        "Image": "rbxassetid://77112261441145",
+        "Rarity": "Secret",
+        "PlacePrice": 5000,
+        "Offset": 1.25,
+        "Max": 1,
+        "Passive": {"Name": "Recursive Volley", "Description": "Attacks strike twice"},
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 25,
+                "Damage": 2000,
+                "Cooldown": 2.5
+            },
+            {
+                "Price": 10000,
+                "Range": 27,
+                "Damage": 2400,
+                "Cooldown": 2.4
+            },
+            {
+                "Price": 20000,
+                "Range": 30,
+                "Damage": 2800,
+                "Cooldown": 2.3
+            },
+            {
+                "Price": 30000,
+                "Range": 34,
+                "Damage": 3200,
+                "Cooldown": 2.2
+            },
+            {
+                "Price": 40000,
+                "Range": 37,
+                "Damage": 3600,
+                "Cooldown": 2.1
+            },
+            {
+                "Price": 150000,
+                "Range": 40,
+                "Damage": 7500,
+                "Cooldown": 2
+            }
+        ]
+    },
     "Circuit Breaker Freddy": {
         "Type": "Single",
         "Image": "rbxassetid://18886487842",
