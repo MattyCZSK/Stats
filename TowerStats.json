@@ -3153,7 +3153,7 @@
         "Type": "Cone AOE Burn",
         "Image": "rbxassetid://18989232497",
         "Rarity": "Secret",
-        "PlacePrice": 3000,
+        "PlacePrice": 250,
         "Offset": 0,
         "Max": 3,
         "hitboxOffset": {
@@ -3164,35 +3164,35 @@
         "Upgrades": [
             {
                 "Price": 0,
-                "Range": 17,
-                "Damage": 150,
+                "Range": 22,
+                "Damage": 300,
                 "Burn": 38,
                 "BurnTime": 1.2,
-                "Cooldown": 1
+                "Cooldown": 0.5
             },
             {
-                "Price": 4000,
-                "Range": 19,
-                "Damage": 200,
+                "Price": 300,
+                "Range": 24,
+                "Damage": 350,
                 "Burn": 50,
                 "BurnTime": 1.2,
-                "Cooldown": 1
+                "Cooldown": 0.5
             },
             {
-                "Price": 5000,
-                "Range": 20,
-                "Damage": 250,
+                "Price": 400,
+                "Range": 25,
+                "Damage": 450,
                 "Burn": 62,
                 "BurnTime": 1.2,
-                "Cooldown": 1
+                "Cooldown": 0.5
             },
             {
-                "Price": 6000,
-                "Range": 22,
-                "Damage":300,
+                "Price": 500,
+                "Range": 27,
+                "Damage":500,
                 "Burn": 80,
                 "BurnTime": 1.2,
-                "Cooldown": 1
+                "Cooldown": 0.5
             }
         ]
     },
