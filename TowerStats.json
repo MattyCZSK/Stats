@@ -3604,7 +3604,7 @@
             {
                 "Price": 0,
                 "Range": 999,
-                "Damage": 500000,
+                "Damage": 9999999999999,
                 "Cooldown": 0
             },
             {
