@@ -857,26 +857,26 @@
             {
                 "Price": 0,
                 "Range": 15,
-                "Damage": 30,
-                "Cooldown": 0.3
+                "Damage": 15,
+                "Cooldown": 0.15
             },
             {
                 "Price": 1200,
                 "Range": 18,
-                "Damage": 35,
-                "Cooldown": 0.3
+                "Damage": 17.5,
+                "Cooldown": 0.15
             },
             {
                 "Price": 1600,
                 "Range": 22,
-                "Damage": 45,
-                "Cooldown": 0.3
+                "Damage": 22.5,
+                "Cooldown": 0.15
             },
             {
                 "Price": 2200,
                 "Range": 25,
-                "Damage": 60,
-                "Cooldown": 0.3
+                "Damage": 30,
+                "Cooldown": 0.15
             }
         ]
     },
@@ -923,7 +923,7 @@
         "Type": "AOE",
         "Image": "rbxassetid://17689695988",
         "Rarity": "Secret",
-        "PlacePrice": 500,
+        "PlacePrice": 400,
         "Max": 5,
         "hitboxOffset": {
             "X": 0,
@@ -934,26 +934,26 @@
             {
                 "Price": 0,
                 "Range": 15,
-                "Damage": 5,
-                "Cooldown": 0.75
+                "Damage": 100 ,
+                "Cooldown": 0.5
             },
             {
-                "Price": 800,
+                "Price": 550,
                 "Range": 18,
-                "Damage": 7,
-                "Cooldown": 0.75
+                "Damage": 125,
+                "Cooldown": 0.5
+            },
+            {
+                "Price": 700,
+                "Range": 20,
+                "Damage": 150,
+                "Cooldown": 0.5
             },
             {
                 "Price": 1200,
                 "Range": 20,
-                "Damage": 10,
-                "Cooldown": 0.75
-            },
-            {
-                "Price": 1600,
-                "Range": 20,
-                "Damage": 14,
-                "Cooldown": 0.75
+                "Damage": 175,
+                "Cooldown": 0.5
             }
         ]
     },
@@ -963,7 +963,7 @@
         "Rarity": "Secret",
         "PlacePrice": 500,
         "Offset": 0.55,
-        "Max": 3,
+        "Max": 5,
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
