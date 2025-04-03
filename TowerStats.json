@@ -407,6 +407,12 @@
         "Range": 58.75,
         "Damage": 587.5,
         "Cooldown": 0.025
+    },
+    {
+        "Price": 10000,
+        "Range": 999,
+        "Damage": 1000,
+        "Cooldown": 0
             }
         ]
     },
