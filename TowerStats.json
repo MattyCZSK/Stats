@@ -856,7 +856,7 @@
         "Type": "Dual",
         "Image": "rbxassetid://16780983603",
         "Rarity": "Epic",
-        "PlacePrice": 0,
+        "PlacePrice": 1000,
         "Max": 3,
         "hitboxOffset": {
             "X": 0,
@@ -866,9 +866,9 @@
         "Upgrades": [
             {
                 "Price": 0,
-                "Range": 999,
-                "Damage": 100,
-                "Cooldown": 0
+                "Range": 12,
+                "Damage": 25,
+                "Cooldown": 0.45
             },
             {
                 "Price": 1600,
