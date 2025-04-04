@@ -856,7 +856,7 @@
         "Type": "Dual",
         "Image": "rbxassetid://16780983603",
         "Rarity": "Epic",
-        "PlacePrice": 1000,
+        "PlacePrice": 0,
         "Max": 3,
         "hitboxOffset": {
             "X": 0,
