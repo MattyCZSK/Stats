@@ -156,7 +156,7 @@
         ]
     },
     "Turret Bonnie": {
-        "Type": "Cone AoE Continuous Slow ",
+        "Type": "Continuous",
         "Image": "rbxassetid://133480873230587",
         "Rarity": "Secret",
         "PlacePrice": 250,
