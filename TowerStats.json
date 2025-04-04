@@ -4515,7 +4515,7 @@
         ]
     },
     "Fractured Bonnie": {
-        "Type": "Continuous",
+        "Type": "Cone AoE Continuous Slow",
         "Image": "rbxassetid://122905004125419",
         "Rarity": "Secret",
         "PlacePrice": 100,
