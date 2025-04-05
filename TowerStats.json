@@ -4211,21 +4211,21 @@
                 "Range": 15,
                 "Damage": 0,
                 "Cooldown": 1,
-                "RangeBoost": 1.42
+                "RangeBoost": 1.5
             },
             {
                 "Price": 1200,
                 "Range": 15,
                 "Damage": 0,
                 "Cooldown": 1,
-                "RangeBoost": 1.45
+                "RangeBoost": 1.6
             },
             {
                 "Price": 1500,
                 "Range": 15,
                 "Damage": 0,
                 "Cooldown": 1,
-                "RangeBoost": 1.5
+                "RangeBoost": 1.7
             }
         ]
     },
