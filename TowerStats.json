@@ -154,6 +154,58 @@
             }
         ]
     },
+     "Hammurger Scott": {
+        "Type": "Splash",
+        "Image": "rbxassetid://73252095378543",
+        "Rarity": "Secret",
+        "PlacePrice": 7500,
+        "Offset": 1.25,
+        "Max": 1,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 25,
+                "Damage": 25000,
+                "Cooldown": 5
+            },
+
+            {
+                "Price": 12500,
+                "Range": 28,
+                "Damage": 30000,
+                "Cooldown": 4.75
+            },
+            {
+                "Price": 15000,
+                "Range": 31,
+                "Damage": 35000,
+                "Cooldown": 4.5
+            },
+            {
+                "Price": 22500,
+                "Range": 34,
+                "Damage": 50000,
+                "Cooldown": 4.35
+            },
+            {
+                "Price": 40000,
+                "Range": 37,
+                "Damage": 72500,
+                "Cooldown": 4.25
+            },
+            {
+                "Price": 50000,
+                "Range": 45,
+                "Damage": 100000,
+                "Cooldown": 4
+            }
+        ]
+    },
     "Withered Chica": {
         "Type": "Single",
         "Image": "rbxassetid://16632209265",
