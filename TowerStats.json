@@ -3011,7 +3011,7 @@
         "Rarity": "Nightmare",
         "PlacePrice": 20000,
         "Offset": 0,
-        "Max": 3,
+        "Max": 4,
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
@@ -4434,7 +4434,7 @@
         "Rarity": "Nightmare",
         "PlacePrice": 17000,
         "Offset": 0,
-        "Max": 3,
+        "Max": 4,
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
