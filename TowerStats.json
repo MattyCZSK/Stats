@@ -2597,31 +2597,31 @@
             {
                 "Price": 0,
                 "Range": 15,
-                "Damage": 100,
+                "Damage": 200,
                 "Cooldown": 0.8
             },
             {
                 "Price": 800,
                 "Range": 16,
-                "Damage": 120,
+                "Damage": 250,
                 "Cooldown": 0.7
             },
             {
                 "Price": 1200,
                 "Range": 17,
-                "Damage": 140,
+                "Damage": 280,
                 "Cooldown": 0.6
             },
             {
                 "Price": 1600,
                 "Range": 18,
-                "Damage": 160,
+                "Damage": 350,
                 "Cooldown": 0.5
             },
             {
                 "Price": 2000,
                 "Range": 20,
-                "Damage": 200,
+                "Damage": 450,
                 "Cooldown": 0.3
             }
         ]
