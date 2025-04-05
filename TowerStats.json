@@ -4267,7 +4267,7 @@
                 "Range": 24,
                 "Damage": 150,
                 "Burn": 25,
-                "BurnTime": 2,
+                "BurnTime": 1,
                 "Cooldown": 0.1,
                 "ChargeTime": 2
             },
