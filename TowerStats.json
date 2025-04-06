@@ -2545,7 +2545,7 @@
     "Artillery Puppet": {
         "Type": "Splash - Midgame - Military",
         "Image": "rbxassetid://18672617524",
-        "Rarity": "Epic - Military",
+        "Rarity": "Epic",
         "PlacePrice": 1500,
         "Max": 3,
         "hitboxOffset": {
