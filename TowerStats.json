@@ -4527,27 +4527,27 @@
         "Upgrades": [
             {
                 "Price": 0,
-                "Range": 10,
+                "Range": 15,
                 "Damage": 300,
-                "Cooldown": 1
+                "Cooldown": 0.8
             },
             {
                 "Price": 600,
-                "Range": 12,
+                "Range": 20,
                 "Damage": 475,
-                "Cooldown": 1
+                "Cooldown": 0.8
             },
             {
                 "Price": 750,
-                "Range": 14,
+                "Range": 25,
                 "Damage": 650,
-                "Cooldown": 1
+                "Cooldown": 0.8
             },
             {
                 "Price": 1250,
-                "Range": 15,
+                "Range": 30,
                 "Damage": 900,
-                "Cooldown": 0.8
+                "Cooldown": 0.75
             }
         ]
     },
