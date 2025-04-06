@@ -154,6 +154,45 @@
             }
         ]
     },
+        "Ignited Bonnie": {
+        "Type": "Continuous - Splash - Guy?",
+        "Image": "rbxassetid://133492548906225",
+        "Rarity": "Secret",
+        "PlacePrice": 1000,
+        "Max": 3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Offset": 0.3,
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 18,
+                "Damage": 250,
+                "Cooldown": 0.05
+            },
+            {
+                "Price": 5000,
+                "Range": 20,
+                "Damage": 350,
+                "Cooldown": 0.05
+            },
+            {
+                "Price": 10000,
+                "Range": 23,
+                "Damage": 500,
+                "Cooldown": 0.05
+            },
+            {
+                "Price": 25000,
+                "Range": 26,
+                "Damage": 750,
+                "Cooldown": 0.05
+            }
+        ]
+    },
      "Hammurger Scott": {
         "Type": "Nuke - Lategame - Limited",
         "Image": "rbxassetid://73252095378543",
