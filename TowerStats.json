@@ -1394,25 +1394,25 @@
             {
                 "Price": 0,
                 "Range": 30,
-                "Damage": 350,
+                "Damage": 550,
                 "Cooldown": 3
             },
             {
                 "Price": 1200,
                 "Range": 35,
-                "Damage": 420,
+                "Damage": 820,
                 "Cooldown": 3
             },
             {
                 "Price": 1500,
                 "Range": 40,
-                "Damage": 550,
+                "Damage": 1250,
                 "Cooldown": 2.5
             },
             {
                 "Price": 2000,
                 "Range": 45,
-                "Damage": 700,
+                "Damage": 1500,
                 "Cooldown": 2
             }
         ]
