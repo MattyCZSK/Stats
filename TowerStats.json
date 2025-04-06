@@ -925,25 +925,25 @@
             {
                 "Price": 0,
                 "Range": 15,
-                "Damage": 100,
+                "Damage": 125,
                 "Cooldown": 0.5
             },
             {
                 "Price": 800,
                 "Range": 18,
-                "Damage": 125,
+                "Damage": 175,
                 "Cooldown": 0.5
             },
             {
                 "Price": 1200,
                 "Range": 20,
-                "Damage": 150,
+                "Damage": 225,
                 "Cooldown": 0.5
             },
             {
                 "Price": 1600,
                 "Range": 20,
-                "Damage": 175,
+                "Damage": 325,
                 "Cooldown": 0.5
             }
         ]
@@ -2439,7 +2439,7 @@
         "Image": "rbxassetid://18673468864",
         "Rarity": "Secret",
         "PlacePrice": 500,
-        "Max": 2,
+        "Max": 3,
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
@@ -2450,7 +2450,7 @@
             {
                 "Price": 0,
                 "Range": 16,
-                "Damage": 25,
+                "Damage": 35,
                 "Cooldown": 0.25,
                 "SummonTime": 35,
                 "Health": 20,
@@ -2465,7 +2465,7 @@
             {
                 "Price": 1000,
                 "Range": 18,
-                "Damage": 35,
+                "Damage": 45,
                 "Cooldown": 0.25,
                 "SummonTime": 34,
                 "Health": 30,
@@ -2479,7 +2479,7 @@
             },
             {
                 "Price": 1500,
-                "Range": 20,
+                "Range": 65,
                 "Damage": 50,
                 "Cooldown": 0.25,
                 "SummonTime": 33,
@@ -2495,7 +2495,7 @@
             {
                 "Price": 2000,
                 "Range": 23,
-                "Damage": 60,
+                "Damage": 100,
                 "Cooldown": 0.25,
                 "SummonTime": 32,
                 "Health": 75,
@@ -2524,25 +2524,25 @@
         "Upgrades": [
             {
                 "Price": 0,
-                "Range": 12,
+                "Range": 15,
                 "Damage": 500,
                 "Cooldown": 3
             },
             {
                 "Price": 7000,
-                "Range": 15,
+                "Range": 25,
                 "Damage": 800,
                 "Cooldown": 2.5
             },
             {
                 "Price": 10000,
-                "Range": 17,
+                "Range": 35,
                 "Damage": 1300,
                 "Cooldown": 2
             },
             {
                 "Price": 15000,
-                "Range": 20,
+                "Range": 45,
                 "Damage": 1750,
                 "Cooldown": 1.5
             }
