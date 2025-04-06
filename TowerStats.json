@@ -1686,7 +1686,7 @@
     "FazCade": {
         "Type": "Farm - Midgame",
         "Image": "rbxassetid://18363529003",
-        "Rarity": "Epic - Summon",
+        "Rarity": "Epic",
         "PlacePrice": 1000,
         "Max": 3,
         "hitboxOffset": {
@@ -1729,7 +1729,7 @@
     "Phantom Mangle": {
         "Type": "Continuous - Lategame",
         "Image": "rbxassetid://18363533024",
-        "Rarity": "Nightmare - Clan Reward",
+        "Rarity": "Nightmare",
         "PlacePrice": 20000,
         "Max": 3,
         "hitboxOffset": {
@@ -1767,7 +1767,7 @@
     "Phantom Cupcake": {
         "Type": "Single - Starter",
         "Image": "rbxassetid://18363537562",
-        "Rarity": "Secret - Season 2 Pass",
+        "Rarity": "Secret",
         "PlacePrice": 80,
         "Max": 4,
         "hitboxOffset": {
@@ -1805,7 +1805,7 @@
     "Amalgam": {
         "Type": "Continuous Slow - Midgame",
         "Image": "rbxassetid://18363541545",
-        "Rarity": "Epic - Season 2",
+        "Rarity": "Epic",
         "PlacePrice": 2000,
         "Max": 2,
         "hitboxOffset": {
@@ -1847,7 +1847,7 @@
     "Phantom Puppet": {
         "Type": "Pierce - Lategame",
         "Image": "rbxassetid://18363546528",
-        "Rarity": "Secret - Premium Season 2 Pass",
+        "Rarity": "Secret",
         "PlacePrice": 15000,
         "Max": 2,
         "hitboxOffset": {
@@ -1885,7 +1885,7 @@
     "Spring Bonnie": {
         "Type": "Range Booster - Midgame",
         "Image": "rbxassetid://18364574191",
-        "Rarity": "Secret - Premium Season 2 Pass",
+        "Rarity": "Secret",
         "PlacePrice": 1500,
         "Max": 2,
         "hitboxOffset": {
@@ -1928,7 +1928,7 @@
     "Bounded Shadow": {
         "Type": "Pierce - Lategame",
         "Image": "rbxassetid://18363555442",
-        "Rarity": "Nightmare - Summmon",
+        "Rarity": "Nightmare",
         "PlacePrice": 12500,
         "Max": 2,
         "hitboxOffset": {
@@ -1966,7 +1966,7 @@
     "Sentinel Bonnie": {
         "Type": "Continuous - Midgame",
         "Image": "rbxassetid://18363569957",
-        "Rarity": "Secret - Exclusive Pack 2",
+        "Rarity": "Secret",
         "PlacePrice": 4000,
         "Offset": 0.35,
         "Max": 3,
@@ -2005,7 +2005,7 @@
     "War Machine Foxy": {
         "Type": "Continuous - Midgame",
         "Image": "rbxassetid://18363581536",
-        "Rarity": "Secret - Clan Reward 2",
+        "Rarity": "Secret",
         "PlacePrice": 3500,
         "Offset": 0.45,
         "Max": 4,
@@ -2083,7 +2083,7 @@
     "Witch Toy Chica": {
         "Type": "Splash + Poison",
         "Image": "rbxassetid://18363391561",
-        "Rarity": "Secret - Starter Pack 2",
+        "Rarity": "Secret",
         "PlacePrice": 500,
         "Max": 3,
         "hitboxOffset": {
@@ -2130,7 +2130,7 @@
     "Abyssal Foxy": {
         "Type": "Continuous Slow - Lategame",
         "Image": "rbxassetid://18578478327",
-        "Rarity": "Secret - Limited",
+        "Rarity": "Secret",
         "PlacePrice": 15000,
         "Max": 3,
         "hitboxOffset": {
@@ -2195,7 +2195,7 @@
     "Major Freddy": {
         "Type": "Single - Midgame",
         "Image": "rbxassetid://18665224476",
-        "Rarity": "Rare - Military",
+        "Rarity": "Rare",
         "PlacePrice": 1000,
         "Max": 4,
         "hitboxOffset": {
@@ -2241,7 +2241,7 @@
     "Enforcer Bonnie": {
         "Type": "Continuous - Lategame",
         "Image": "rbxassetid://18673234413",
-        "Rarity": "Secret - Military",
+        "Rarity": "Secret",
         "PlacePrice": 10000,
         "Max": 2,
         "hitboxOffset": {
@@ -2287,7 +2287,7 @@
     "Mercenary Foxy": {
         "Type": "Continuous - Midgame",
         "Image": "rbxassetid://18673129884",
-        "Rarity": "Mythic - Military",
+        "Rarity": "Mythic",
         "PlacePrice": 2500,
         "Max": 4,
         "hitboxOffset": {
@@ -2333,7 +2333,7 @@
     "Cupcake Tank": {
         "Type": "Summoner - Midgame",
         "Image": "rbxassetid://18673630095",
-        "Rarity": "Secret - Military Pass",
+        "Rarity": "Secret",
         "PlacePrice": 2000,
         "Max": 2,
         "hitboxOffset": {
@@ -2467,7 +2467,7 @@
     "Rocketeer Mangle": {
         "Type": "Splash - Midgame",
         "Image": "rbxassetid://18673926504",
-        "Rarity": "Secret - Military Pass",
+        "Rarity": "Secret",
         "PlacePrice": 5000,
         "Max": 3,
         "hitboxOffset": {
@@ -2584,7 +2584,7 @@
     "Tarnished Spring Bonnie": {
         "Type": "Cone AoE - Starter",
         "Image": "rbxassetid://18777411515",
-        "Rarity": "Secret - Limited",
+        "Rarity": "Secret",
         "PlacePrice": 600,
         "Offset": 0,
         "Max": 3,
@@ -2629,7 +2629,7 @@
     "Scott": {
         "Type": "Nuke - Midgame",
         "Image": "rbxassetid://18864498819",
-        "Rarity": "Secret - Limited",
+        "Rarity": "Secret",
         "PlacePrice": 5000,
         "Offset": 1.25,
         "Max": 1,
@@ -2681,7 +2681,7 @@
     "Circuit Breaker Freddy": {
         "Type": "Single - Midgame",
         "Image": "rbxassetid://18886487842",
-        "Rarity": "Nightmare - ",
+        "Rarity": "Nightmare",
         "PlacePrice": 7500,
         "Offset": 0,
         "Max": 3,
@@ -2720,7 +2720,7 @@
     "Glitched Puppeteer": {
         "Type": "Splash - Lategame",
         "Image": "rbxassetid://18887217738",
-        "Rarity": "Nightmare - ",
+        "Rarity": "Nightmare",
         "PlacePrice": 20000,
         "Offset": 0.7,
         "Max": 3,
@@ -2759,7 +2759,7 @@
     "Glitched CupCake": {
         "Type": "AOE - Starter",
         "Image": "rbxassetid://18888327109",
-        "Rarity": "Epic - ",
+        "Rarity": "Epic",
         "PlacePrice": 150,
         "Offset": 0,
         "Max": 3,
@@ -2798,7 +2798,7 @@
     "The Crying Child": {
         "Type": "Slow - Midgame",
         "Image": "rbxassetid://18937271323",
-        "Rarity": "Secret - Limited",
+        "Rarity": "Secret",
         "PlacePrice": 800,
         "Offset": 0,
         "Max": 2,
@@ -2848,7 +2848,7 @@
     "Nightmare Foxy": {
         "Type": "Splash - Midgame",
         "Image": "rbxassetid://18974775213",
-        "Rarity": "Mythic - Season 3",
+        "Rarity": "Mythic",
         "PlacePrice": 5000,
         "Offset": 1,
         "Max": 3,
@@ -2887,7 +2887,7 @@
     "Nightmare Bonnie": {
         "Type": "Melee - Lategame",
         "Image": "rbxassetid://18975677946",
-        "Rarity": "Secret - Season 3",
+        "Rarity": "Secret",
         "PlacePrice": 15000,
         "Offset": 0.25,
         "Max": 3,
@@ -2926,7 +2926,7 @@
     "Nightmare Chica": {
         "Type": "Splash + Slow - Midgame",
         "Image": "rbxassetid://18975771590",
-        "Rarity": "Epic - Season 3",
+        "Rarity": "Epic",
         "PlacePrice": 4000,
         "Offset": 0.25,
         "Max": 3,
@@ -2969,7 +2969,7 @@
     "Nightmare Freddy": {
         "Type": "Melee - Starter",
         "Image": "rbxassetid://18975866920",
-        "Rarity": "Rare - Season 3",
+        "Rarity": "Rare",
         "PlacePrice": 750,
         "Offset": 0.25,
         "Max": 3,
@@ -3008,7 +3008,7 @@
     "NightMarionne": {
         "Type": "AOE - Lategame",
         "Image": "rbxassetid://18975916197",
-        "Rarity": "Nightmare - Season 3 Reward",
+        "Rarity": "Nightmare",
         "PlacePrice": 20000,
         "Offset": 0,
         "Max": 4,
@@ -3047,7 +3047,7 @@
     "Fredbear": {
         "Type": "Range Boost - Midgame",
         "Image": "rbxassetid://18977659349",
-        "Rarity": "Secret - Premium Season 3 Pass",
+        "Rarity": "Secret",
         "PlacePrice": 1250,
         "Offset": 0,
         "Max": 3,
@@ -3091,7 +3091,7 @@
     "Nightmare Cupcake": {
         "Type": "Slow - Starter",
         "Image": "rbxassetid://18978229455",
-        "Rarity": "Epic - ",
+        "Rarity": "Epic",
         "PlacePrice": 150,
         "Offset": 0,
         "Max": 3,
@@ -3134,7 +3134,7 @@
     "Nightmare": {
         "Type": "AOE Poison - Lategame",
         "Image": "rbxassetid://18977738423",
-        "Rarity": "Secret - Premium Season 3 Pass",
+        "Rarity": "Secret",
         "PlacePrice": 10000,
         "Offset": 0.5,
         "Max": 3,
@@ -3181,7 +3181,7 @@
     "Endo 04": {
         "Type": "Cone AOE Burn - Starter",
         "Image": "rbxassetid://18989232497",
-        "Rarity": "Secret - Season 3 Pass",
+        "Rarity": "Secret",
         "PlacePrice": 300,
         "Offset": 0,
         "Max": 3,
@@ -3228,7 +3228,7 @@
     "Flame Empress Chica": {
         "Type": "Splash Burn - Midgame",
         "Image": "rbxassetid://18971134114",
-        "Rarity": "Secret - ",
+        "Rarity": "Secret",
         "PlacePrice": 7500,
         "Offset": 0.5,
         "Max": 3,
@@ -3283,7 +3283,7 @@
     "Nightmare Mangle": {
         "Type": "AOE Poison - Lategame",
         "Image": "rbxassetid://18977428026",
-        "Rarity": "Nightmare - ",
+        "Rarity": "Nightmare",
         "PlacePrice": 17500,
         "Offset": -2.5,
         "Max": 3,
@@ -3330,7 +3330,7 @@
     "Freddle": {
         "Type": "Summoner - Midgame",
         "Image": "rbxassetid://18978374958",
-        "Rarity": "Secret - Exclusive Pack 3",
+        "Rarity": "Secret",
         "PlacePrice": 400,
         "Offset": 0,
         "Max": 3,
@@ -3381,7 +3381,7 @@
     "Nightmare Balloon Boy": {
         "Type": "Pierce - Midgame",
         "Image": "rbxassetid://18978330449",
-        "Rarity": "Mythic - Summon",
+        "Rarity": "Mythic",
         "PlacePrice": 1500,
         "Offset": 0,
         "Max": 4,
@@ -3420,7 +3420,7 @@
     "Plushtrap": {
         "Type": "Range Booster - Midgame",
         "Image": "rbxassetid://18978316223",
-        "Rarity": "Secret - Endless 4",
+        "Rarity": "Secret",
         "PlacePrice": 600,
         "Offset": 0,
         "Max": 3,
@@ -4110,7 +4110,7 @@
     "Cowboy Freddy": {
         "Type": "Single - Starter",
         "Image": "rbxassetid://75145495587772",
-        "Rarity": "Rare - Western",
+        "Rarity": "Rare",
         "PlacePrice": 700,
         "Offset": 0,
         "Max": 3,
@@ -4149,7 +4149,7 @@
     "Tavern Chica": {
         "Type": "Splash - Midgame",
         "Image": "rbxassetid://75064673887993",
-        "Rarity": "Mythic - Western",
+        "Rarity": "Mythic",
         "PlacePrice": 1200,
         "Offset": 0,
         "Max": 3,
@@ -4188,7 +4188,7 @@
     "Maestro Puppet": {
         "Type": "Range Booster - Midgame",
         "Image": "rbxassetid://124446963849830",
-        "Rarity": "Epic - Western",
+        "Rarity": "Epic",
         "PlacePrice": 600,
         "Offset": 0,
         "Max": 3,
@@ -4271,7 +4271,7 @@
     "Bounty Mangle": {
         "Type": "Splash Farm - Midgame",
         "Image": "rbxassetid://86267470826666",
-        "Rarity": "Secret - Western Pack 2",
+        "Rarity": "Secret",
         "PlacePrice": 4000,
         "Offset": 0,
         "Max": 3,
@@ -4310,7 +4310,7 @@
     "Hooligan Toy Bonnie": {
         "Type": "Splash - Midgame",
         "Image": "rbxassetid://99820154884996",
-        "Rarity": "Epic - ",
+        "Rarity": "Epic",
         "PlacePrice": 1500,
         "Offset": 0,
         "Max": 3,
@@ -4349,7 +4349,7 @@
     "BlindEye Foxy": {
         "Type": "Slow - Midgame",
         "Image": "rbxassetid://122884069811995",
-        "Rarity": "Secret - Western",
+        "Rarity": "Secret",
         "PlacePrice": 5000,
         "Offset": 0,
         "Max": 2,
@@ -4431,7 +4431,7 @@
     "Outlaw Freddy": {
         "Type": "Splash - Lategame",
         "Image": "rbxassetid://136678045195601",
-        "Rarity": "Nightmare - Western",
+        "Rarity": "Nightmare",
         "PlacePrice": 17000,
         "Offset": 0,
         "Max": 4,
@@ -4470,7 +4470,7 @@
     "Jackpot Freddy": {
         "Type": "Single Farm - Starter",
         "Image": "rbxassetid://108467505723572",
-        "Rarity": "Secret - Western Pack 1",
+        "Rarity": "Secret",
         "PlacePrice": 500,
         "Offset": 0,
         "Max": 3,
