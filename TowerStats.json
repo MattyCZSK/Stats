@@ -4948,10 +4948,10 @@
         ]
     },
         "Investor Freddy": {
-        "Type": "Farm - Starter - Exclusive Pack 4",
+        "Type": "Farm - Starter - Limited",
         "Image": "rbxassetid://90035174021972",
         "Rarity": "Secret",
-        "PlacePrice": 550,
+        "PlacePrice": 800,
         "Max": 4,
         "hitboxOffset": {
             "X": 0,
@@ -4967,23 +4967,23 @@
                 "Farm": 650
             },
             {
-                "Price": 800,
+                "Price": 1200,
                 "Range": 15,
-                "Damage": 350,
+                "Damage": 500,
                 "Cooldown": 0.5,
                 "Farm": 1200
             },
             {
-                "Price": 1200,
+                "Price": 1600,
                 "Range": 20,
-                "Damage": 450,
+                "Damage": 750,
                 "Cooldown": 0.5,
                 "Farm": 3000
             },
             {
-                "Price": 2000,
+                "Price": 2200,
                 "Range": 25,
-                "Damage": 500,
+                "Damage": 1250,
                 "Cooldown": 0.5,
                 "Farm": 7200
             }
