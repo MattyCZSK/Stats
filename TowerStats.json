@@ -4989,6 +4989,44 @@
             }
         ]
     },
+            "Titan Speakerman": {
+        "Type": "Splash - Midgame - Developer",
+        "Image": "",
+        "Rarity": "Secret",
+        "PlacePrice": 5000,
+        "Max": 4,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 35,
+                "Damage": 3000,
+                "Cooldown": 2,
+            },
+            {
+                "Price": 800,
+                "Range": 50,
+                "Damage": 3500,
+                "Cooldown": 1.75,
+            },
+            {
+                "Price": 1200,
+                "Range": 65,
+                "Damage": 4500,
+                "Cooldown": 1.5,
+            },
+            {
+                "Price": 2000,
+                "Range": 75,
+                "Damage": 7500,
+                "Cooldown": 0.75,
+            }
+        ]
+    },
     "RWQFSFASXC": {
         "Type": "AOE",
         "Image": "rbxassetid://127646561328941",
