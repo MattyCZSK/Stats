@@ -170,7 +170,7 @@
             {
                 "Price": 0,
                 "Range": 10,
-                "Damage": 550,
+                "Damage": 500,
                 "Cooldown": 0.5
             },
             {
@@ -650,25 +650,25 @@
         "Upgrades": [
             {
                 "Price": 0,
-                "Range": 12,
+                "Range": 20,
                 "Damage": 600,
                 "Cooldown": 4
             },
             {
                 "Price": 10000,
-                "Range": 15,
+                "Range": 25,
                 "Damage": 850,
                 "Cooldown": 3.5
             },
             {
                 "Price": 15000,
-                "Range": 18,
+                "Range": 30,
                 "Damage": 900,
                 "Cooldown": 3
             },
             {
                 "Price": 25000,
-                "Range": 25,
+                "Range": 35,
                 "Damage": 1350,
                 "Cooldown": 3
             }
@@ -4905,6 +4905,48 @@
                 "Range": 35,
                 "Damage": 15000,
                 "Cooldown": 0.05
+            }
+        ]
+    },
+        "Investor Freddy": {
+        "Type": "Farm - Starter - Exclusive Pack 4",
+        "Image": "",
+        "Rarity": "Secret",
+        "PlacePrice": 550,
+        "Max": 4,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 10,
+                "Damage": 300,
+                "Cooldown": 0.5,
+                "Farm": 650
+            },
+            {
+                "Price": 800,
+                "Range": 15,
+                "Damage": 350,
+                "Cooldown": 0.5,
+                "Farm": 1200
+            },
+            {
+                "Price": 1200,
+                "Range": 20,
+                "Damage": 450,
+                "Cooldown": 0.5,
+                "Farm": 3000
+            },
+            {
+                "Price": 2000,
+                "Range": 25,
+                "Damage": 500,
+                "Cooldown": 0.5,
+                "Farm": 7200
             }
         ]
     },
