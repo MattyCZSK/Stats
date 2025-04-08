@@ -4908,6 +4908,45 @@
             }
         ]
     },
+                      "Ignited Springtrap": {
+        "Type": "AoE Burn - Lategame - TJOC Pass End",
+        "Image": "",
+        "Rarity": "Nightmare",
+        "PlacePrice": 25000,
+        "Max": 2,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Offset": 0.3,
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 20,
+                "Damage": 25000,
+                "Cooldown": 2
+            },
+            {
+                "Price": 35000,
+                "Range": 25,
+                "Damage": 35000,
+                "Cooldown": 1.5
+            },
+            {
+                "Price": 64000,
+                "Range": 30,
+                "Damage": 50000,
+                "Cooldown": 1
+            },
+            {
+                "Price": 100000,
+                "Range": 35,
+                "Damage": 100000,
+                "Cooldown": 0.5
+            }
+        ]
+    },
         "Investor Freddy": {
         "Type": "Farm - Starter - Exclusive Pack 4",
         "Image": "",
