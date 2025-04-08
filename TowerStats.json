@@ -4948,11 +4948,11 @@
         ]
     },
         "Investor Freddy": {
-        "Type": "Farm - Starter/Midgame - Limited",
+        "Type": "Farm - Starter/Midgame/Lategame - Limited",
         "Image": "rbxassetid://90035174021972",
         "Rarity": "Secret",
-        "PlacePrice": 800,
-        "Max": 4,
+        "PlacePrice": 300,
+        "Max": 2,
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
@@ -4962,30 +4962,37 @@
             {
                 "Price": 0,
                 "Range": 10,
+                "Damage": 250,
+                "Cooldown": 0.5,
+                "Farm": 500
+            },
+            {
+                "Price": 500,
+                "Range": 15,
                 "Damage": 500,
                 "Cooldown": 0.5,
-                "Farm": 650
+                "Farm": 1250
+            },
+            {
+                "Price": 800,
+                "Range": 20,
+                "Damage": 750,
+                "Cooldown": 0.5,
+                "Farm": 2500
             },
             {
                 "Price": 1200,
-                "Range": 15,
-                "Damage": 650,
+                "Range": 25,
+                "Damage": 1000,
                 "Cooldown": 0.5,
-                "Farm": 1200
+                "Farm": 4500
             },
             {
                 "Price": 1600,
-                "Range": 20,
-                "Damage": 850,
-                "Cooldown": 0.5,
-                "Farm": 3000
-            },
-            {
-                "Price": 2200,
                 "Range": 25,
                 "Damage": 1250,
                 "Cooldown": 0.5,
-                "Farm": 7200
+                "Farm": 7500
             }
         ]
     },
