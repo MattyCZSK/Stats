@@ -4989,7 +4989,7 @@
             },
             {
                 "Price": 1600,
-                "Range": 25,
+                "Range": 30,
                 "Damage": 1250,
                 "Cooldown": 0.5,
                 "Farm": 7500
