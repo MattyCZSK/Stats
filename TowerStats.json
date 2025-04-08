@@ -154,6 +154,51 @@
             }
         ]
     },
+    "Turret Bonnie": {
+        "Type": "Continuous Cone AoE Slow",
+        "Image": "rbxassetid://133480873230587",
+        "Rarity": "Mythic",
+        "PlacePrice": 100,
+        "Max": 10,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Offset": 0.3,
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 10,
+                "Damage": 500,
+                "Cooldown": 0.5
+            },
+            {
+                "Price": 200,
+                "Range": 10,
+                "Damage": 750,
+                "Cooldown": 0.375
+            },
+            {
+                "Price": 300,
+                "Range": 10,
+                "Damage": 1000,
+                "Cooldown": 0.25
+            },
+            {
+                "Price": 400,
+                "Range": 10,
+                "Damage": 1500,
+                "Cooldown": 0.125
+            },
+            {
+                "Price": 500,
+                "Range": 10,
+                "Damage": 2500,
+                "Cooldown": 0.001
+            }
+        ]
+    },
      "Hammurger Scott": {
         "Type": "Nuke - Lategame - Limited",
         "Image": "rbxassetid://73252095378543",
