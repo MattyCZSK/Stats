@@ -157,7 +157,7 @@
     "Turret Bonnie": {
         "Type": "Continuous Cone AoE Slow",
         "Image": "rbxassetid://133480873230587",
-        "Rarity": "Mythic",
+        "Rarity": "Secret",
         "PlacePrice": 100,
         "Max": 10,
         "hitboxOffset": {
