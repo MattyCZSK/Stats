@@ -252,7 +252,7 @@
         ]
     },
     "Withered Chica": {
-        "Type": "Single - Midgame - Season 1",
+        "Type": "Single - Starter/Midgame - Season 1",
         "Image": "rbxassetid://16632209265",
         "Rarity": "Rare",
         "PlacePrice": 800,
@@ -1385,7 +1385,7 @@
         ]
     },
     "Rad Freddy": {
-        "Type": "Single - Midgame - Summer Exclusive Pack",
+        "Type": "Single - Starter/Midgame - Summer Exclusive Pack",
         "Image": "rbxassetid://18258392627",
         "Rarity": "Secret",
         "PlacePrice": 800,
@@ -4948,7 +4948,7 @@
         ]
     },
         "Investor Freddy": {
-        "Type": "Farm - Starter - Limited",
+        "Type": "Farm - Starter/Midgame - Limited",
         "Image": "rbxassetid://90035174021972",
         "Rarity": "Secret",
         "PlacePrice": 800,
@@ -4962,21 +4962,21 @@
             {
                 "Price": 0,
                 "Range": 10,
-                "Damage": 300,
+                "Damage": 500,
                 "Cooldown": 0.5,
                 "Farm": 650
             },
             {
                 "Price": 1200,
                 "Range": 15,
-                "Damage": 500,
+                "Damage": 650,
                 "Cooldown": 0.5,
                 "Farm": 1200
             },
             {
                 "Price": 1600,
                 "Range": 20,
-                "Damage": 750,
+                "Damage": 850,
                 "Cooldown": 0.5,
                 "Farm": 3000
             },
