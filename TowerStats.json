@@ -2393,9 +2393,9 @@
                 "Range": 8,
                 "Damage": 800,
                 "Cooldown": 5,
-                "SummonTime": 40,
-                "Health": 1000,
-                "WalkSpeed": 11,
+                "SummonTime": 60,
+                "Health": 10000,
+                "WalkSpeed": 5,
                 "Unit": "TankCake",
                 "Offset": -1.5
             },
@@ -2404,9 +2404,9 @@
                 "Range": 10,
                 "Damage": 950,
                 "Cooldown": 4,
-                "SummonTime": 38,
-                "Health": 500,
-                "WalkSpeed": 11,
+                "SummonTime": 60,
+                "Health": 50000,
+                "WalkSpeed": 5,
                 "Unit": "TankCake",
                 "Offset": -1.5
             },
@@ -2415,9 +2415,9 @@
                 "Range": 12,
                 "Damage": 1100,
                 "Cooldown": 2,
-                "SummonTime": 37,
-                "Health": 2500,
-                "WalkSpeed": 11,
+                "SummonTime": 60,
+                "Health": 25000,
+                "WalkSpeed": 5,
                 "Unit": "TankCake",
                 "Offset": -1.5
             },
@@ -2426,9 +2426,9 @@
                 "Range": 14,
                 "Damage": 1500,
                 "Cooldown": 1,
-                "SummonTime": 36,
-                "Health": 4000,
-                "WalkSpeed": 11,
+                "SummonTime": 60,
+                "Health": 40000,
+                "WalkSpeed": 5,
                 "Unit": "TankCake",
                 "Offset": -1.5
             }
@@ -2449,7 +2449,7 @@
         "Upgrades": [
             {
                 "Price": 0,
-                "Range": 16,
+                "Range": 15,
                 "Damage": 35,
                 "Cooldown": 0.25,
                 "SummonTime": 35,
@@ -2458,13 +2458,13 @@
                 "Amount": 1,
                 "Unit": "Infantry Endo",
                 "Offset": -2,
-                "SummonRange": 14,
+                "SummonRange": 15,
                 "SummonDamage": 100,
                 "SummonCooldown": 0.25
             },
             {
                 "Price": 1000,
-                "Range": 18,
+                "Range": 20,
                 "Damage": 45,
                 "Cooldown": 0.25,
                 "SummonTime": 34,
@@ -2473,13 +2473,13 @@
                 "Amount": 1,
                 "Unit": "Infantry Endo",
                 "Offset": -2,
-                "SummonRange": 16,
+                "SummonRange": 15,
                 "SummonDamage": 150,
                 "SummonCooldown": 0.25
             },
             {
                 "Price": 1500,
-                "Range": 65,
+                "Range": 25,
                 "Damage": 50,
                 "Cooldown": 0.25,
                 "SummonTime": 33,
@@ -2488,13 +2488,13 @@
                 "Amount": 1,
                 "Unit": "Infantry Endo",
                 "Offset": -2,
-                "SummonRange": 24,
+                "SummonRange": 15,
                 "SummonDamage": 250,
                 "SummonCooldown": 0.25
             },
             {
                 "Price": 2000,
-                "Range": 23,
+                "Range": 30,
                 "Damage": 100,
                 "Cooldown": 0.25,
                 "SummonTime": 32,
@@ -2503,7 +2503,7 @@
                 "Amount": 1,
                 "Unit": "Infantry Endo",
                 "Offset": -2,
-                "SummonRange": 30,
+                "SummonRange": 15,
                 "SummonDamage": 350,
                 "SummonCooldown": 0.25
             }
@@ -2641,33 +2641,33 @@
         "Upgrades": [
             {
                 "Price": 0,
-                "Range": 15,
-                "Damage": 400,
-                "Cooldown": 0.8
+                "Range": 20,
+                "Damage": 500,
+                "Cooldown": 1
             },
             {
                 "Price": 800,
-                "Range": 16,
-                "Damage": 650,
-                "Cooldown": 0.7
+                "Range": 21,
+                "Damage": 1000,
+                "Cooldown": 0.75
             },
             {
                 "Price": 1200,
-                "Range": 17,
-                "Damage": 980,
-                "Cooldown": 0.6
-            },
-            {
-                "Price": 1600,
-                "Range": 18,
-                "Damage": 1350,
+                "Range": 22,
+                "Damage": 1500,
                 "Cooldown": 0.5
             },
             {
+                "Price": 1600,
+                "Range": 23,
+                "Damage": 1750,
+                "Cooldown": 0.35
+            },
+            {
                 "Price": 2000,
-                "Range": 20,
-                "Damage": 1950,
-                "Cooldown": 0.3
+                "Range": 25,
+                "Damage": 2000,
+                "Cooldown": 0.25
             }
         ]
     },
@@ -2687,38 +2687,38 @@
             {
                 "Price": 0,
                 "Range": 25,
-                "Damage": 4000,
+                "Damage": 6000,
                 "Cooldown": 4
             },
 
             {
                 "Price": 10000,
                 "Range": 28,
-                "Damage": 9600,
+                "Damage": 10000,
                 "Cooldown": 3.7
             },
             {
                 "Price": 15000,
                 "Range": 31,
-                "Damage": 12200,
+                "Damage": 17000,
                 "Cooldown": 3.3
             },
             {
                 "Price": 20000,
                 "Range": 34,
-                "Damage": 16800,
+                "Damage": 23000,
                 "Cooldown": 3.2
             },
             {
                 "Price": 25000,
                 "Range": 37,
-                "Damage": 20000,
+                "Damage": 30000,
                 "Cooldown": 2.1
             },
             {
                 "Price": 30000,
                 "Range": 45,
-                "Damage": 25000,
+                "Damage": 50000,
                 "Cooldown": 3
             }
         ]
@@ -2739,25 +2739,25 @@
             {
                 "Price": 0,
                 "Range": 20,
-                "Damage": 1200,
+                "Damage": 1500,
                 "Cooldown": 0.7
             },
             {
                 "Price": 10000,
                 "Range": 24,
-                "Damage": 1450,
+                "Damage": 2300,
                 "Cooldown": 0.6
             },
             {
                 "Price": 12500,
                 "Range": 27,
-                "Damage": 2000,
+                "Damage": 3500,
                 "Cooldown": 0.5
             },
             {
                 "Price": 15000,
                 "Range": 30,
-                "Damage": 2800,
+                "Damage": 4500,
                 "Cooldown": 0.4
             }
         ]
