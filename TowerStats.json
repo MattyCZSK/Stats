@@ -3017,7 +3017,7 @@
         "Rarity": "Rare",
         "PlacePrice": 750,
         "Offset": 0.25,
-        "Max": 3,
+        "Max": 4,
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
@@ -4952,7 +4952,7 @@
         "Image": "rbxassetid://90035174021972",
         "Rarity": "Secret",
         "PlacePrice": 300,
-        "Max": 2,
+        "Max": 4,
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
