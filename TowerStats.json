@@ -1,6 +1,6 @@
 {
     "Freddy": {
-        "Type": "Single - Starter - FREE",
+        "Type": "Single - Starter - Free",
         "Image": "rbxassetid://16620053009",
         "Rarity": "Uncommon",
         "PlacePrice": 300,
@@ -27,11 +27,11 @@
             {
                 "Price": 750,
                 "Range": 14,
-                "Damage": 35,
+                "Damage": 40,
                 "Cooldown": 1
             },
             {
-                "Price": 1250,
+                "Price": 1000,
                 "Range": 15,
                 "Damage": 50,
                 "Cooldown": 0.75
@@ -42,7 +42,7 @@
         "Type": "Splash - Starter - Summon",
         "Image": "rbxassetid://16620303027",
         "Rarity": "Uncommon",
-        "PlacePrice": 300,
+        "PlacePrice": 400,
         "Max": 5,
         "hitboxOffset": {
             "X": 0,
@@ -52,25 +52,25 @@
         "Upgrades": [
             {
                 "Price": 0,
-                "Range": 10,
+                "Range": 12,
                 "Damage": 60,
                 "Cooldown": 2
             },
             {
-                "Price": 500,
-                "Range": 10,
+                "Price": 600,
+                "Range": 14,
                 "Damage": 70,
                 "Cooldown": 2
             },
             {
-                "Price": 7500,
-                "Range": 12,
+                "Price": 800,
+                "Range": 15,
                 "Damage": 80,
                 "Cooldown": 2
             },
             {
-                "Price": 1250,
-                "Range": 14,
+                "Price": 1200,
+                "Range": 20,
                 "Damage": 100,
                 "Cooldown": 1.5
             }
@@ -80,9 +80,9 @@
         "Type": "Melee - Starter - Summon",
         "Image": "rbxassetid://16620218689",
         "Rarity": "Rare",
-        "PlacePrice": 600,
+        "PlacePrice": 500,
         "Offset": 0.65,
-        "Max": 3,
+        "Max": 4,
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
@@ -92,13 +92,13 @@
             {
                 "Price": 0,
                 "Range": 7,
-                "Damage": 80,
+                "Damage": 100,
                 "Cooldown": 1
             },
             {
                 "Price": 800,
                 "Range": 8,
-                "Damage": 100,
+                "Damage": 125,
                 "Cooldown": 1
             },
             {
@@ -110,7 +110,7 @@
             {
                 "Price": 2000,
                 "Range": 10,
-                "Damage": 200,
+                "Damage": 250,
                 "Cooldown": 0.75
             }
         ]
@@ -130,25 +130,25 @@
         "Upgrades": [
             {
                 "Price": 0,
-                "Range": 18,
+                "Range": 20,
                 "Damage": 25,
                 "Cooldown": 0.05
             },
             {
                 "Price": 15000,
-                "Range": 20,
+                "Range": 25,
                 "Damage": 35,
                 "Cooldown": 0.05
             },
             {
                 "Price": 25000,
-                "Range": 23,
+                "Range": 30,
                 "Damage": 50,
                 "Cooldown": 0.05
             },
             {
                 "Price": 35000,
-                "Range": 26,
+                "Range": 35,
                 "Damage": 75,
                 "Cooldown": 0.05
             }
@@ -221,31 +221,31 @@
 
             {
                 "Price": 12500,
-                "Range": 28,
+                "Range": 30,
                 "Damage": 30000,
                 "Cooldown": 4.75
             },
             {
                 "Price": 15000,
-                "Range": 31,
+                "Range": 35,
                 "Damage": 35000,
                 "Cooldown": 4.5
             },
             {
                 "Price": 22500,
-                "Range": 34,
+                "Range": 40,
                 "Damage": 50000,
                 "Cooldown": 4.35
             },
             {
                 "Price": 40000,
-                "Range": 37,
+                "Range": 45,
                 "Damage": 72500,
                 "Cooldown": 4.25
             },
             {
                 "Price": 50000,
-                "Range": 45,
+                "Range": 50,
                 "Damage": 100000,
                 "Cooldown": 4
             }
@@ -256,7 +256,7 @@
         "Image": "rbxassetid://16632209265",
         "Rarity": "Rare",
         "PlacePrice": 800,
-        "Max": 2,
+        "Max": 4,
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
@@ -273,19 +273,19 @@
                 "Price": 1200,
                 "Range": 12,
                 "Damage": 375,
-                "Cooldown": 0.95
+                "Cooldown": 0.9
             },
             {
                 "Price": 1500,
                 "Range": 15,
                 "Damage": 500,
-                "Cooldown": 0.9
+                "Cooldown": 0.8
             },
             {
                 "Price": 2500,
-                "Range": 15,
+                "Range": 20,
                 "Damage": 625,
-                "Cooldown": 0.8
+                "Cooldown": 0.75
             }
         ]
     },
@@ -310,19 +310,19 @@
             },
             {
                 "Price": 1800,
-                "Range": 18,
+                "Range": 20,
                 "Damage": 275,
-                "Cooldown": 0.5
+                "Cooldown": 0.45
             },
             {
                 "Price": 3000,
-                "Range": 20,
+                "Range": 25,
                 "Damage": 450,
-                "Cooldown": 0.35
+                "Cooldown": 0.4
             },
             {
                 "Price": 5000,
-                "Range": 20,
+                "Range": 30,
                 "Damage": 650,
                 "Cooldown": 0.35
             }
@@ -342,26 +342,26 @@
         "Upgrades": [
             {
                 "Price": 0,
-                "Range": 15,
-                "Damage": 35,
-                "Cooldown": 0.05
-            },
-            {
-                "Price": 10000,
-                "Range": 15,
+                "Range": 25,
                 "Damage": 50,
                 "Cooldown": 0.05
             },
             {
-                "Price": 15000,
-                "Range": 20,
+                "Price": 10000,
+                "Range": 30,
                 "Damage": 75,
                 "Cooldown": 0.05
             },
             {
+                "Price": 15000,
+                "Range": 35,
+                "Damage": 100 ,
+                "Cooldown": 0.05
+            },
+            {
                 "Price": 25000,
-                "Range": 20,
-                "Damage": 125,
+                "Range": 45,
+                "Damage": 150,
                 "Cooldown": 0.05
             }
         ]
@@ -371,7 +371,7 @@
         "Image": "rbxassetid://16632217188",
         "Rarity": "Secret",
         "PlacePrice": 20000,
-        "Max": 3,
+        "Max": 2,
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
@@ -381,25 +381,25 @@
         "Upgrades": [
             {
                 "Price": 0,
-                "Range": 22,
-                "Damage": 75,
-                "Cooldown": 0.05
-            },
-            {
-                "Price": 35000,
-                "Range": 28,
+                "Range": 35,
                 "Damage": 100,
                 "Cooldown": 0.05
             },
             {
-                "Price": 50000,
-                "Range": 32,
+                "Price": 35000,
+                "Range": 45,
                 "Damage": 150,
                 "Cooldown": 0.05
             },
             {
-                "Price": 70000,
-                "Range": 35,
+                "Price": 50000,
+                "Range": 55,
+                "Damage": 200,
+                "Cooldown": 0.05
+            },
+            {
+                "Price": 75000,
+                "Range": 65,
                 "Damage": 250,
                 "Cooldown": 0.05
             }
@@ -419,25 +419,25 @@
         "Upgrades": [
             {
                 "Price": 0,
-                "Range": 10,
-                "Damage": 150,
-                "Cooldown": 0.05
-            },
-            {
-                "Price": 35000,
                 "Range": 15,
                 "Damage": 250,
                 "Cooldown": 0.05
             },
             {
-                "Price": 45000,
+                "Price": 35000,
                 "Range": 20,
                 "Damage": 350,
                 "Cooldown": 0.05
             },
             {
-                "Price": 60000,
+                "Price": 45000,
                 "Range": 25,
+                "Damage": 450,
+                "Cooldown": 0.05
+            },
+            {
+                "Price": 60000,
+                "Range": 30,
                 "Damage": 500,
                 "Cooldown": 0.05
             }
@@ -447,8 +447,8 @@
         "Type": "Single - Midgame - Summon",
         "Image": "rbxassetid://16781095520",
         "Rarity": "Rare",
-        "PlacePrice": 800,
-        "Max": 3,
+        "PlacePrice": 600,
+        "Max": 4,
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
@@ -463,21 +463,21 @@
                 "Cooldown": 2
             },
             {
-                "Price": 1000,
+                "Price": 800,
                 "Range": 12,
-                "Damage": 340,
-                "Cooldown": 2
+                "Damage": 250,
+                "Cooldown": 1.75
             },
             {
-                "Price": 1500,
-                "Range": 15,
+                "Price": 1200,
+                "Range": 14,
                 "Damage": 400,
                 "Cooldown": 1.5
             },
             {
-                "Price": 2000,
+                "Price": 1800,
                 "Range": 15,
-                "Damage": 500,
+                "Damage": 650,
                 "Cooldown": 1.5
             }
         ]
@@ -496,25 +496,25 @@
         "Upgrades": [
             {
                 "Price": 0,
-                "Range": 12,
+                "Range": 15,
                 "Damage": 50,
                 "Cooldown": 0.75
             },
             {
                 "Price": 1600,
-                "Range": 15,
+                "Range": 20,
                 "Damage": 65,
                 "Cooldown": 0.5
             },
             {
                 "Price": 2000,
-                "Range": 18,
+                "Range": 25,
                 "Damage": 80,
                 "Cooldown": 0.35
             },
             {
                 "Price": 3000,
-                "Range": 20,
+                "Range": 30,
                 "Damage": 100,
                 "Cooldown": 0.25
             }
@@ -525,7 +525,7 @@
         "Image": "rbxassetid://16781017510",
         "Rarity": "Epic",
         "PlacePrice": 1250,
-        "Max": 2,
+        "Max": 3,
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
@@ -563,7 +563,7 @@
         "Type": "Splash - Lategame - Summon",
         "Image": "rbxassetid://16781119726",
         "Rarity": "Secret",
-        "PlacePrice": 12500,
+        "PlacePrice": 10000,
         "Max": 2,
         "hitboxOffset": {
             "X": 0,
@@ -574,25 +574,25 @@
         "Upgrades": [
             {
                 "Price": 0,
-                "Range": 15,
+                "Range": 20,
                 "Damage": 500,
                 "Cooldown": 1.5
             },
             {
-                "Price": 20000,
-                "Range": 17,
+                "Price": 15000,
+                "Range": 25,
                 "Damage": 1000,
                 "Cooldown": 1.25
             },
             {
-                "Price": 25000,
-                "Range": 20,
+                "Price": 20000,
+                "Range": 30,
                 "Damage": 1500,
                 "Cooldown": 1
             },
             {
-                "Price": 30000,
-                "Range": 22,
+                "Price": 25000,
+                "Range": 35,
                 "Damage": 2000,
                 "Cooldown": 0.75
             }
@@ -602,7 +602,7 @@
         "Type": "AOE - Lategame - Summon",
         "Image": "rbxassetid://17270065249",
         "Rarity": "Secret",
-        "PlacePrice": 15000,
+        "PlacePrice": 10000,
         "Max": 2,
         "hitboxOffset": {
             "X": 0,
@@ -612,25 +612,25 @@
         "Upgrades": [
             {
                 "Price": 0,
-                "Range": 12,
+                "Range": 10,
                 "Damage": 35,
                 "Cooldown": 0.05
             },
             {
-                "Price": 25000,
-                "Range": 14,
+                "Price": 20000,
+                "Range": 15,
                 "Damage": 55,
                 "Cooldown": 0.05
             },
             {
                 "Price": 30000,
-                "Range": 16,
+                "Range": 15,
                 "Damage": 80,
                 "Cooldown": 0.05
             },
             {
-                "Price": 50000,
-                "Range": 18,
+                "Price": 40000,
+                "Range": 20,
                 "Damage": 100,
                 "Cooldown": 0.05
             }
@@ -663,23 +663,23 @@
             {
                 "Price": 15000,
                 "Range": 30,
-                "Damage": 900,
+                "Damage": 1500,
                 "Cooldown": 3
             },
             {
                 "Price": 25000,
                 "Range": 35,
-                "Damage": 1350,
+                "Damage": 2000,
                 "Cooldown": 3
             }
         ]
     },
     "Golden Freddy": {
-        "Type": "Single - Midgame - Summon",
+        "Type": "Melee - Midgame - Summon",
         "Image": "rbxassetid://17629034232",
         "Rarity": "Mythic",
         "PlacePrice": 4000,
-        "Max": 2,
+        "Max": 3,
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
@@ -689,25 +689,25 @@
             {
                 "Price": 0,
                 "Range": 15,
-                "Damage": 300,
+                "Damage": 650,
                 "Cooldown": 1.5
             },
             {
                 "Price": 7000,
                 "Range": 18,
-                "Damage": 550,
+                "Damage": 850,
                 "Cooldown": 1.25
             },
             {
                 "Price": 10000,
                 "Range": 20,
-                "Damage": 700,
+                "Damage": 1300,
                 "Cooldown": 1
             },
             {
                 "Price": 15000,
                 "Range": 20,
-                "Damage": 1000,
+                "Damage": 1750,
                 "Cooldown": 1
             }
         ]
@@ -728,25 +728,25 @@
             {
                 "Price": 0,
                 "Range": 50,
-                "Damage": 1000,
+                "Damage": 3000,
                 "Cooldown": 7
             },
             {
                 "Price": 15000,
                 "Range": 65,
-                "Damage": 1600,
+                "Damage": 4500,
                 "Cooldown": 6
             },
             {
                 "Price": 20000,
                 "Range": 85,
-                "Damage": 2300,
+                "Damage": 6000,
                 "Cooldown": 5.5
             },
             {
                 "Price": 25000,
                 "Range": 100,
-                "Damage": 4000,
+                "Damage": 7500,
                 "Cooldown": 5
             }
         ]
@@ -770,21 +770,21 @@
                 "Cooldown": 1.5
             },
             {
-                "Price": 4000,
+                "Price": 5000,
                 "Range": 18,
-                "Damage": 2000,
+                "Damage": 2500,
                 "Cooldown": 1.25
             },
             {
-                "Price": 6000,
-                "Range": 20,
-                "Damage": 2750,
-                "Cooldown": 1.25
-            },
-            {
-                "Price": 9000,
+                "Price": 7500,
                 "Range": 20,
                 "Damage": 3500,
+                "Cooldown": 1.25
+            },
+            {
+                "Price": 10000,
+                "Range": 25,
+                "Damage": 5000,
                 "Cooldown": 1
             }
         ]
@@ -807,28 +807,28 @@
                 "Range": 15,
                 "Damage": 0,
                 "Cooldown": 1,
-                "DamageBoost": 1.15
+                "DamageBoost": 1.1
             },
             {
                 "Price": 1700,
-                "Range": 15,
+                "Range": 20,
+                "Damage": 0,
+                "Cooldown": 1,
+                "DamageBoost": 1.15
+            },
+            {
+                "Price": 2200,
+                "Range": 25,
                 "Damage": 0,
                 "Cooldown": 1,
                 "DamageBoost": 1.2
             },
             {
-                "Price": 2200,
-                "Range": 15,
+                "Price": 2500,
+                "Range": 30,
                 "Damage": 0,
                 "Cooldown": 1,
                 "DamageBoost": 1.25
-            },
-            {
-                "Price": 2500,
-                "Range": 15,
-                "Damage": 0,
-                "Cooldown": 1,
-                "DamageBoost": 1.35
             }
         ]
     },
@@ -836,7 +836,7 @@
         "Type": "Single - Starter - Season 1 Pass End",
         "Image": "rbxassetid://17690383931",
         "Rarity": "Secret",
-        "PlacePrice": 600,
+        "PlacePrice": 500,
         "Max": 4,
         "hitboxOffset": {
             "X": 0,
@@ -847,26 +847,26 @@
         "Upgrades": [
             {
                 "Price": 0,
-                "Range": 15,
+                "Range": 20,
+                "Damage": 30,
+                "Cooldown": 0.15
+            },
+            {
+                "Price": 1000,
+                "Range": 25,
                 "Damage": 50,
                 "Cooldown": 0.15
             },
             {
-                "Price": 1200,
-                "Range": 18,
+                "Price": 1500,
+                "Range": 30,
                 "Damage": 75,
                 "Cooldown": 0.15
             },
             {
-                "Price": 1600,
-                "Range": 22,
-                "Damage": 100,
-                "Cooldown": 0.15
-            },
-            {
-                "Price": 2200,
-                "Range": 25,
-                "Damage": 150,
+                "Price": 2000,
+                "Range": 35,
+                "Damage": 125,
                 "Cooldown": 0.15
             }
         ]
@@ -886,26 +886,26 @@
         "Upgrades": [
             {
                 "Price": 0,
-                "Range": 25,
+                "Range": 30,
                 "Damage": 75,
                 "Cooldown": 0.05
             },
             {
                 "Price": 30000,
-                "Range": 30,
+                "Range": 35,
                 "Damage": 125,
                 "Cooldown": 0.05
             },
             {
                 "Price": 40000,
-                "Range": 35,
+                "Range": 45,
                 "Damage": 200,
                 "Cooldown": 0.05
             },
             {
                 "Price": 50000,
-                "Range": 40,
-                "Damage": 300,
+                "Range": 50,
+                "Damage": 350,
                 "Cooldown": 0.05
             }
         ]
@@ -915,7 +915,7 @@
         "Image": "rbxassetid://17689695988",
         "Rarity": "Secret",
         "PlacePrice": 500,
-        "Max": 5,
+        "Max": 4,
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
@@ -954,7 +954,7 @@
         "Rarity": "Secret",
         "PlacePrice": 500,
         "Offset": 0.55,
-        "Max": 5,
+        "Max": 4,
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
@@ -963,27 +963,27 @@
         "Upgrades": [
             {
                 "Price": 0,
-                "Range": 15,
+                "Range": 20,
                 "Damage": 50,
                 "Cooldown": 0.5
             },
             {
                 "Price": 800,
-                "Range": 18,
+                "Range": 25,
                 "Damage": 65,
                 "Cooldown": 0.4
             },
             {
                 "Price": 1400,
-                "Range": 20,
+                "Range": 30,
                 "Damage": 90,
                 "Cooldown": 0.3
             },
             {
                 "Price": 2000,
-                "Range": 20,
+                "Range": 35,
                 "Damage": 100,
-                "Cooldown": 0.3
+                "Cooldown": 0.25
             }
         ]
     },
@@ -1003,25 +1003,25 @@
             {
                 "Price": 0,
                 "Range": 15,
-                "Damage": 800,
+                "Damage": 3000,
                 "Cooldown": 2
             },
             {
                 "Price": 12000,
                 "Range": 17,
-                "Damage": 1500,
+                "Damage": 4500,
                 "Cooldown": 2
             },
             {
                 "Price": 15000,
                 "Range": 19,
-                "Damage": 2500,
+                "Damage": 7000,
                 "Cooldown": 2
             },
             {
                 "Price": 20000,
                 "Range": 21,
-                "Damage": 4000,
+                "Damage": 8500,
                 "Cooldown": 1.5
             }
         ]
@@ -1079,25 +1079,25 @@
             {
                 "Price": 0,
                 "Range": 15,
-                "Damage": 100,
+                "Damage": 200,
                 "Cooldown": 1
             },
             {
                 "Price": 1400,
                 "Range": 18,
-                "Damage": 150,
+                "Damage": 350,
                 "Cooldown": 1
             },
             {
                 "Price": 2000,
                 "Range": 22,
-                "Damage": 210,
+                "Damage": 420,
                 "Cooldown": 1
             },
             {
                 "Price": 2500,
                 "Range": 25,
-                "Damage": 350,
+                "Damage": 600,
                 "Cooldown": 0.8
             }
         ]
@@ -1118,7 +1118,7 @@
             {
                 "Price": 0,
                 "Range": 15,
-                "Damage": 60,
+                "Damage": 100,
                 "Cooldown": 1,
                 "Slow": 0.70,
                 "SlowTime": 1
@@ -1126,7 +1126,7 @@
             {
                 "Price": 1200,
                 "Range": 16,
-                "Damage": 85,
+                "Damage": 170,
                 "Cooldown": 1,
                 "Slow": 0.70,
                 "SlowTime": 1
@@ -1134,15 +1134,15 @@
             {
                 "Price": 1600,
                 "Range": 17,
-                "Damage": 120,
+                "Damage": 275,
                 "Cooldown": 1,
                 "Slow": 0.7,
                 "SlowTime": 1
             },
             {
                 "Price": 2000,
-                "Range": 18,
-                "Damage": 170,
+                "Range": 20,
+                "Damage": 350,
                 "Cooldown": 0.8,
                 "Slow": 0.6,
                 "SlowTime": 1
@@ -1154,7 +1154,7 @@
         "Image": "rbxassetid://18256042312",
         "Rarity": "Mythic",
         "PlacePrice": 6000,
-        "Max": 3,
+        "Max": 2,
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
@@ -1164,25 +1164,25 @@
             {
                 "Price": 0,
                 "Range": 12,
-                "Damage": 1000,
+                "Damage": 2000,
                 "Cooldown": 4
             },
             {
                 "Price": 8000,
                 "Range": 15,
-                "Damage": 1400,
+                "Damage": 3400,
                 "Cooldown": 3.5
             },
             {
                 "Price": 12000,
                 "Range": 18,
-                "Damage": 2000,
+                "Damage": 5000,
                 "Cooldown": 3
             },
             {
                 "Price": 18000,
                 "Range": 25,
-                "Damage": 3000,
+                "Damage": 7000,
                 "Cooldown": 3
             }
         ]
@@ -1231,7 +1231,7 @@
         "Image": "rbxassetid://18255813345",
         "Rarity": "Secret",
         "PlacePrice": 5000,
-        "Max": 3,
+        "Max": 2,
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
@@ -1241,26 +1241,26 @@
         "Upgrades": [
             {
                 "Price": 0,
-                "Range": 25,
-                "Damage": 2500,
+                "Range": 15,
+                "Damage": 3500,
                 "Cooldown": 3.5
             },
             {
                 "Price": 7500,
-                "Range": 27,
-                "Damage": 3000,
+                "Range": 20,
+                "Damage": 5000,
                 "Cooldown": 3.4
             },
             {
                 "Price": 10000,
-                "Range": 30,
-                "Damage": 4000,
+                "Range": 25,
+                "Damage": 7000,
                 "Cooldown": 3.2
             },
             {
                 "Price": 12500,
-                "Range": 30,
-                "Damage": 5000,
+                "Range": 25,
+                "Damage": 10000,
                 "Cooldown": 3
             }
         ]
@@ -1304,11 +1304,11 @@
         ]
     },
     "Algae FredBear": {
-        "Type": "Single - Starter - Summer Pass End",
+        "Type": "Single - Midgame - Summer Pass End",
         "Image": "rbxassetid://18255264349",
         "Rarity": "Secret",
         "PlacePrice": 300,
-        "Max": 3,
+        "Max": 2,
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
@@ -1347,7 +1347,7 @@
         "Rarity": "Epic",
         "PlacePrice": 1000,
         "NoEnemyAttack": true,
-        "Max": 2,
+        "Max": 999,
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
@@ -1373,14 +1373,14 @@
                 "Range": 15,
                 "Damage": 0,
                 "Cooldown": 1,
-                "RangeBoost": 1.45
+                "RangeBoost": 1.4
             },
             {
                 "Price": 1800,
                 "Range": 15,
                 "Damage": 0,
                 "Cooldown": 1,
-                "RangeBoost": 1.6
+                "RangeBoost": 1.5
             }
         ]
     },
@@ -1439,7 +1439,7 @@
             {
                 "Price": 0,
                 "Range": 15,
-                "Damage": 250,
+                "Damage": 300,
                 "Cooldown": 4
             },
             {
@@ -1634,19 +1634,19 @@
             },
             {
                 "Price": 20000,
-                "Range": 22,
+                "Range": 25,
                 "Damage": 75,
                 "Cooldown": 0.05
             },
             {
                 "Price": 30000,
-                "Range": 25,
+                "Range": 30,
                 "Damage": 125,
                 "Cooldown": 0.05
             },
             {
                 "Price": 40000,
-                "Range": 30,
+                "Range": 35,
                 "Damage": 165,
                 "Cooldown": 0.05
             }
@@ -1667,25 +1667,25 @@
             {
                 "Price": 0,
                 "Range": 15,
-                "Damage": 1200,
+                "Damage": 6500,
                 "Cooldown": 4
             },
             {
                 "Price": 10000,
                 "Range": 18,
-                "Damage": 1700,
+                "Damage": 7800,
                 "Cooldown": 3.5
             },
             {
                 "Price": 15000,
                 "Range": 22,
-                "Damage": 2300,
+                "Damage": 8750,
                 "Cooldown": 3
             },
             {
                 "Price": 20000,
                 "Range": 25,
-                "Damage": 3500,
+                "Damage": 12000,
                 "Cooldown": 3
             }
         ]
@@ -1695,7 +1695,7 @@
         "Image": "rbxassetid://18363517791",
         "Rarity": "Mythic",
         "PlacePrice": 3000,
-        "Max": 4,
+        "Max": 3,
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
@@ -1705,25 +1705,25 @@
             {
                 "Price": 0,
                 "Range": 15,
-                "Damage": 400,
+                "Damage": 750,
                 "Cooldown": 1.5
             },
             {
                 "Price": 4000,
                 "Range": 18,
-                "Damage": 600,
+                "Damage": 1500,
                 "Cooldown": 1.25
             },
             {
                 "Price": 6000,
                 "Range": 20,
-                "Damage": 800,
+                "Damage": 2500,
                 "Cooldown": 1.25
             },
             {
                 "Price": 9000,
-                "Range": 20,
-                "Damage": 1000,
+                "Range": 25,
+                "Damage": 3500,
                 "Cooldown": 1
             }
         ]
@@ -1904,25 +1904,25 @@
             {
                 "Price": 0,
                 "Range": 15,
-                "Damage": 2800,
+                "Damage": 3000,
                 "Cooldown": 2
             },
             {
                 "Price": 17000,
                 "Range": 17,
-                "Damage": 3200,
+                "Damage": 5000,
                 "Cooldown": 2
             },
             {
                 "Price": 20000,
                 "Range": 19,
-                "Damage": 4000,
+                "Damage": 7000,
                 "Cooldown": 1.5
             },
             {
                 "Price": 25000,
                 "Range": 21,
-                "Damage": 5000,
+                "Damage": 9000,
                 "Cooldown": 1
             }
         ]
@@ -1959,14 +1959,14 @@
                 "Range": 30,
                 "Damage": 0,
                 "Cooldown": 4,
-                "DamageBoost": 1.65
+                "DamageBoost": 1.7
             },
             {
                 "Price": 3000,
                 "Range": 35,
                 "Damage": 0,
                 "Cooldown": 4,
-                "DamageBoost": 1.95
+                "DamageBoost": 1.9
             }
         ]
     },
@@ -1985,25 +1985,25 @@
             {
                 "Price": 0,
                 "Range": 16,
-                "Damage": 3000,
+                "Damage": 5000,
                 "Cooldown": 2
             },
             {
                 "Price": 15000,
                 "Range": 18,
-                "Damage": 4000,
+                "Damage": 6000,
                 "Cooldown": 1.5
             },
             {
                 "Price": 17000,
                 "Range": 20,
-                "Damage": 5200,
+                "Damage": 7200,
                 "Cooldown": 1.5
             },
             {
                 "Price": 22000,
                 "Range": 22,
-                "Damage": 6250,
+                "Damage": 8250,
                 "Cooldown": 1
             }
         ]
@@ -2014,7 +2014,7 @@
         "Rarity": "Secret",
         "PlacePrice": 4000,
         "Offset": 0.35,
-        "Max": 3,
+        "Max": 4,
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
@@ -2091,7 +2091,7 @@
         "Image": "rbxassetid://18364281117",
         "Rarity": "Rare",
         "PlacePrice": 800,
-        "Max": 3,
+        "Max": 4,
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
@@ -2130,7 +2130,7 @@
         "Image": "rbxassetid://18363391561",
         "Rarity": "Secret",
         "PlacePrice": 500,
-        "Max": 3,
+        "Max": 4,
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
@@ -2148,7 +2148,7 @@
             },
             {
                 "Price": 800,
-                "Range": 17,
+                "Range": 20,
                 "Damage": 125,
                 "Cooldown": 3,
                 "Poison": 65,
@@ -2156,7 +2156,7 @@
             },
             {
                 "Price": 1000,
-                "Range": 20,
+                "Range": 25,
                 "Damage": 150,
                 "Cooldown": 3,
                 "Poison": 100,
@@ -2164,7 +2164,7 @@
             },
             {
                 "Price": 1200,
-                "Range": 25,
+                "Range": 30,
                 "Damage": 200,
                 "Cooldown": 2,
                 "Poison": 250,
@@ -2252,7 +2252,7 @@
             {
                 "Price": 0,
                 "Range": 18,
-                "Damage": 40,
+                "Damage": 50,
                 "Cooldown": 0.5,
                 "Ammo": 30,
                 "ReloadTime": 1.5
@@ -2260,7 +2260,7 @@
             {
                 "Price": 1400,
                 "Range": 20,
-                "Damage": 60,
+                "Damage": 70,
                 "Cooldown": 0.4,
                 "Ammo": 30,
                 "ReloadTime": 1.5
@@ -2276,7 +2276,7 @@
             {
                 "Price": 2500,
                 "Range": 25,
-                "Damage": 120,
+                "Damage": 100,
                 "Cooldown": 0.3,
                 "Ammo": 30,
                 "ReloadTime": 1.5
@@ -2308,23 +2308,23 @@
                 "Range": 20,
                 "Damage": 370,
                 "Cooldown": 0.125,
-                "Ammo": 50,
+                "Ammo": 65,
                 "ReloadTime": 1.5
             },
             {
                 "Price": 20000,
-                "Range": 23,
+                "Range": 25,
                 "Damage": 370,
                 "Cooldown": 0.1,
-                "Ammo": 60,
+                "Ammo": 75,
                 "ReloadTime": 1.5
             },
             {
                 "Price": 25000,
-                "Range": 26,
+                "Range": 30,
                 "Damage": 370,
                 "Cooldown": 0.05,
-                "Ammo": 60,
+                "Ammo": 85,
                 "ReloadTime": 1.5
             }
         ]
@@ -2334,7 +2334,7 @@
         "Image": "rbxassetid://18673129884",
         "Rarity": "Mythic",
         "PlacePrice": 2500,
-        "Max": 4,
+        "Max": 3,
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
@@ -2354,7 +2354,7 @@
                 "Range": 18,
                 "Damage": 1,
                 "Cooldown": 0.125,
-                "Ammo": 75,
+                "Ammo": 55,
                 "ReloadTime": 1.5
             },
             {
@@ -2362,7 +2362,7 @@
                 "Range": 20,
                 "Damage": 25,
                 "Cooldown": 0.1,
-                "Ammo": 100,
+                "Ammo": 60,
                 "ReloadTime": 1.5
             },
             {
@@ -2370,7 +2370,7 @@
                 "Range": 23,
                 "Damage": 125,
                 "Cooldown": 0.05,
-                "Ammo": 60,
+                "Ammo": 70,
                 "ReloadTime": 1.5
             }
         ]
@@ -2439,7 +2439,7 @@
         "Image": "rbxassetid://18673468864",
         "Rarity": "Secret",
         "PlacePrice": 500,
-        "Max": 3,
+        "Max": 4,
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
@@ -2514,7 +2514,7 @@
         "Image": "rbxassetid://18673926504",
         "Rarity": "Secret",
         "PlacePrice": 5000,
-        "Max": 3,
+        "Max": 2,
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
@@ -2531,19 +2531,19 @@
             {
                 "Price": 7000,
                 "Range": 25,
-                "Damage": 800,
+                "Damage": 1500,
                 "Cooldown": 2.5
             },
             {
                 "Price": 10000,
                 "Range": 35,
-                "Damage": 1300,
+                "Damage": 2000,
                 "Cooldown": 2
             },
             {
                 "Price": 15000,
                 "Range": 45,
-                "Damage": 1750,
+                "Damage": 3500,
                 "Cooldown": 1.5
             }
         ]
@@ -2575,7 +2575,7 @@
             },
             {
                 "Price": 20000,
-                "Range": 32,
+                "Range": 30,
                 "Damage": 900,
                 "Cooldown": 0.05
             },
@@ -2603,25 +2603,25 @@
             {
                 "Price": 0,
                 "Range": 40,
-                "Damage": 400,
+                "Damage": 700,
                 "Cooldown": 4
             },
             {
                 "Price": 2000,
                 "Range": 40,
-                "Damage": 500,
+                "Damage": 1500,
                 "Cooldown": 3.5
             },
             {
                 "Price": 2500,
                 "Range": 40,
-                "Damage": 700,
+                "Damage": 2000,
                 "Cooldown": 3
             },
             {
                 "Price": 3000,
                 "Range": 40,
-                "Damage": 1000,
+                "Damage": 3000,
                 "Cooldown": 3
             }
         ]
@@ -2632,7 +2632,7 @@
         "Rarity": "Secret",
         "PlacePrice": 600,
         "Offset": 0,
-        "Max": 3,
+        "Max": 4,
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
