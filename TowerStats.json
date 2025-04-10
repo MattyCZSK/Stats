@@ -155,7 +155,7 @@
         ]
     },
     "Turret Bonnie": {
-        "Type": "Continuous Cone AoE - Starter - Developer",
+        "Type": "Continuous Cone AoE - Starter - Dev",
         "Image": "rbxassetid://133480873230587",
         "Rarity": "Secret",
         "PlacePrice": 100,
