@@ -4635,121 +4635,121 @@
             }
         ]
     },
-        "Ignited Chica": {
-        "Type": "Splash - Starter - TJOC",
-        "Image": "",
-        "Rarity": "Rare",
-        "PlacePrice": 500,
-        "Offset": 0,
-        "Max": 2,
-        "hitboxOffset": {
-            "X": 0,
-            "Y": 0,
-            "Z": 0
-        },
-        "Upgrades": [
-            {
-                "Price": 0,
-                "Range": 15,
-                "Damage": 1000,
-                "Cooldown": 1.5
-            },
-            {
-                "Price": 800,
-                "Range": 20,
-                "Damage": 2000,
-                "Cooldown": 1.25
-            },
-            {
-                "Price": 1200,
-                "Range": 25,
-                "Damage": 3500,
-                "Cooldown": 1
-            },
-            {
-                "Price": 2000,
-                "Range": 30,
-                "Damage": 5000,
-                "Cooldown": 0.75
-             }
-        ]
-    },
-          "Ignited Freddy": {
-        "Type": "Single - Midgame - TJOC",
-        "Image": "",
-        "Rarity": "Epic",
-        "PlacePrice": 1500,
-        "Offset": 0,
+              "Ignited Bonnie": {
+        "Type": "Continuous Splash - Lategame - TJOC",
+        "Image": "rbxassetid://133492548906225",
+        "Rarity": "Secret",
+        "PlacePrice": 75000,
         "Max": 3,
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
             "Z": 0
         },
+        "Offset": 0.3,
         "Upgrades": [
             {
                 "Price": 0,
-                "Range": 15,
-                "Damage": 3500,
-                "Cooldown": 1.5
+                "Range": 45,
+                "Damage": 250,
+                "Cooldown": 0.05
             },
             {
-                "Price": 2400,
-                "Range": 20,
-                "Damage": 5500,
-                "Cooldown": 1.25
+                "Price": 120000,
+                "Range": 55,
+                "Damage": 1000,
+                "Cooldown": 0.05
             },
             {
-                "Price": 3500,
-                "Range": 25,
-                "Damage": 6750,
-                "Cooldown": 1
+                "Price": 200000,
+                "Range": 65,
+                "Damage": 2500,
+                "Cooldown": 0.05
             },
             {
-                "Price": 7500,
-                "Range": 30,
-                "Damage": 9000,
-                "Cooldown": 0.75
-             }
+                "Price": 350000,
+                "Range": 75,
+                "Damage": 5000,
+                "Cooldown": 0.05
+            }
         ]
     },
-            "Ignited Foxy": {
-        "Type": "Cone AoE - Midgame - TJOC",
-        "Image": "",
-        "Rarity": "Mythic",
-        "PlacePrice": 5000,
-        "Offset": 0,
-        "Max": 2,
+              "Ignited Bonnie": {
+        "Type": "Continuous Splash - Lategame - TJOC",
+        "Image": "rbxassetid://133492548906225",
+        "Rarity": "Secret",
+        "PlacePrice": 75000,
+        "Max": 3,
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
             "Z": 0
         },
+        "Offset": 0.3,
         "Upgrades": [
             {
                 "Price": 0,
-                "Range": 10,
-                "Damage": 6000,
-                "Cooldown": 0.75
+                "Range": 45,
+                "Damage": 250,
+                "Cooldown": 0.05
             },
             {
-                "Price": 8000,
-                "Range": 12,
-                "Damage": 7500,
-                "Cooldown": 0.5
+                "Price": 120000,
+                "Range": 55,
+                "Damage": 1000,
+                "Cooldown": 0.05
             },
             {
-                "Price": 15000,
-                "Range": 15,
-                "Damage": 9250,
-                "Cooldown": 0.35
+                "Price": 200000,
+                "Range": 65,
+                "Damage": 2500,
+                "Cooldown": 0.05
             },
             {
-                "Price": 30000,
-                "Range": 20,
-                "Damage": 12000,
-                "Cooldown": 0.25
-             }
+                "Price": 350000,
+                "Range": 75,
+                "Damage": 5000,
+                "Cooldown": 0.05
+            }
+        ]
+    },
+              "Ignited Bonnie": {
+        "Type": "Continuous Splash - Lategame - TJOC",
+        "Image": "rbxassetid://133492548906225",
+        "Rarity": "Secret",
+        "PlacePrice": 75000,
+        "Max": 3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Offset": 0.3,
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 45,
+                "Damage": 250,
+                "Cooldown": 0.05
+            },
+            {
+                "Price": 120000,
+                "Range": 55,
+                "Damage": 1000,
+                "Cooldown": 0.05
+            },
+            {
+                "Price": 200000,
+                "Range": 65,
+                "Damage": 2500,
+                "Cooldown": 0.05
+            },
+            {
+                "Price": 350000,
+                "Range": 75,
+                "Damage": 5000,
+                "Cooldown": 0.05
+            }
         ]
     },
           "Ignited Bonnie": {
@@ -4905,6 +4905,45 @@
                 "Range": 35,
                 "Damage": 15000,
                 "Cooldown": 0.05
+            }
+        ]
+    },
+                  "Endo C Mouth": {
+        "Type": "Stun - Midgame - TJOC2",
+        "Image": "rbxassetid://133492548906225",
+        "Rarity": "Secret",
+        "PlacePrice": 1500,
+        "Max": 3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Offset": 0.3,
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 20,
+                "Damage": 5000,
+                "Cooldown": 3
+            },
+            {
+                "Price": 2500,
+                "Range": 25,
+                "Damage": 6500,
+                "Cooldown": 2.75
+            },
+            {
+                "Price": 3500,
+                "Range": 30,
+                "Damage": 7500,
+                "Cooldown": 2.5
+            },
+            {
+                "Price": 5000,
+                "Range": 35,
+                "Damage": 10000,
+                "Cooldown": 2
             }
         ]
     },
