@@ -4915,7 +4915,7 @@
         ]
     },
                   "Endo C Mouth": {
-        "Type": "Stun - Midgame - TJOC2",
+        "Type": "Cone AoE - Midgame - TJOC2",
         "Image": "rbxassetid://112348102732947",
         "Rarity": "Secret",
         "PlacePrice": 1500,
