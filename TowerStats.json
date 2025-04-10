@@ -4756,7 +4756,7 @@
         "Type": "Continuous Splash - Lategame - TJOC",
         "Image": "rbxassetid://112437682809002",
         "Rarity": "Secret",
-        "PlacePrice": 75000,
+        "PlacePrice": 50000,
         "Max": 3,
         "hitboxOffset": {
             "X": 0,
@@ -4772,19 +4772,19 @@
                 "Cooldown": 0.05
             },
             {
-                "Price": 120000,
+                "Price": 75000,
                 "Range": 55,
                 "Damage": 1000,
                 "Cooldown": 0.05
             },
             {
-                "Price": 200000,
+                "Price": 120000,
                 "Range": 65,
                 "Damage": 2500,
                 "Cooldown": 0.05
             },
             {
-                "Price": 350000,
+                "Price": 200000,
                 "Range": 75,
                 "Damage": 5000,
                 "Cooldown": 0.05
