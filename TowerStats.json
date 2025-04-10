@@ -4636,7 +4636,7 @@
         ]
     },
                   "Ignited Foxy": {
-        "Type": "Cone AoE - Starter - TJOCS",
+        "Type": "Cone AoE - Starter - TJOC",
         "Image": "rbxassetid://93497163427991",
         "Rarity": "Rare",
         "PlacePrice": 650,
@@ -4792,7 +4792,7 @@
         ]
     },
               "Ignited Golden Freddy": {
-        "Type": "Slow - Midgame - TJOCS Exclusive Pack",
+        "Type": "Slow - Midgame - TJOC Prize",
         "Image": "rbxassetid://134904310692506",
         "Rarity": "Nightmare",
         "PlacePrice": 5000,
@@ -4876,7 +4876,7 @@
         ]
     },
               "Creation": {
-        "Type": "Pierce - Lategame - TJOC Season Reward",
+        "Type": "Pierce - Lategame - TJOC Premium Pass",
         "Image": "rbxassetid://129059213668336",
         "Rarity": "Nightmare",
         "PlacePrice": 50000,
