@@ -1103,7 +1103,7 @@
         ]
     },
     "Summer Toy Bonnie": {
-        "Type": "Slow - Starter - Summer",
+        "Type": "Starter - Summer",
         "Image": "rbxassetid://18255590026",
         "Rarity": "Rare",
         "PlacePrice": 800,
@@ -1848,7 +1848,7 @@
         ]
     },
     "Amalgam": {
-        "Type": "Continuous Slow - Midgame - Season 2",
+        "Type": "Continuous Midgame - Season 2",
         "Image": "rbxassetid://18363541545",
         "Rarity": "Epic",
         "PlacePrice": 2000,
@@ -2173,7 +2173,7 @@
         ]
     },
     "Abyssal Foxy": {
-        "Type": "Continuous Slow - Lategame - Limited",
+        "Type": "Continuous Lategame - Limited",
         "Image": "rbxassetid://18578478327",
         "Rarity": "Secret",
         "PlacePrice": 15000,
@@ -2841,7 +2841,7 @@
         ]
     },
     "The Crying Child": {
-        "Type": "Slow - Midgame - Limited",
+        "Type": "Midgame - Limited",
         "Image": "rbxassetid://18937271323",
         "Rarity": "Secret",
         "PlacePrice": 800,
@@ -2969,7 +2969,7 @@
         ]
     },
     "Nightmare Chica": {
-        "Type": "Splash + Slow - Midgame - Season 3",
+        "Type": "Splash + Midgame - Season 3",
         "Image": "rbxassetid://18975771590",
         "Rarity": "Epic",
         "PlacePrice": 4000,
@@ -3134,7 +3134,7 @@
         ]
     },
     "Nightmare Cupcake": {
-        "Type": "Slow - Starter",
+        "Type": "Starter",
         "Image": "rbxassetid://18978229455",
         "Rarity": "Epic",
         "PlacePrice": 150,
@@ -4392,7 +4392,7 @@
         ]
     },
     "BlindEye Foxy": {
-        "Type": "Slow - Midgame - Western",
+        "Type": "Midgame - Western",
         "Image": "rbxassetid://122884069811995",
         "Rarity": "Secret",
         "PlacePrice": 5000,
@@ -4675,7 +4675,7 @@
         ]
     },
               "Ignited Chica": {
-        "Type": "Stun + Splash - Midgame - TJOC",
+        "Type": "Slow + Splash - Midgame - TJOC",
         "Image": "rbxassetid://91647780840396",
         "Rarity": "Epic",
         "PlacePrice": 7500,
@@ -4714,7 +4714,7 @@
         ]
     },
               "Ignited Freddy": {
-        "Type": "Stun - Lategame - TJOC",
+        "Type": "Lategame - TJOC",
         "Image": "rbxassetid://119803070779296",
         "Rarity": "Mythic",
         "PlacePrice": 10000,
@@ -4792,7 +4792,7 @@
         ]
     },
               "Ignited Golden Freddy": {
-        "Type": "Slow - Midgame - TJOC Exclusive Pack",
+        "Type": "Midgame - TJOC Exclusive Pack",
         "Image": "rbxassetid://134904310692506",
         "Rarity": "Secret",
         "PlacePrice": 5000,
@@ -4831,7 +4831,7 @@
         ]
     },
                   "Ignited Shadow Freddy": {
-        "Type": "AoE Slow - Lategame - TJOC Pass End",
+        "Type": "AoE Lategame - TJOC Pass End",
         "Image": "rbxassetid://121309305757249",
         "Rarity": "Nightmare",
         "PlacePrice": 15000,
@@ -4915,7 +4915,7 @@
         ]
     },
                   "Endo C Mouth": {
-        "Type": "Stun - Midgame - TJOC2",
+        "Type": "Midgame - TJOC2",
         "Image": "rbxassetid://112348102732947",
         "Rarity": "Secret",
         "PlacePrice": 1500,
