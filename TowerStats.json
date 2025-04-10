@@ -4637,7 +4637,7 @@
     },
                   "Ignited Foxy": {
         "Type": "Cone AoE - Starter - TJOCS",
-        "Image": "rbxassetid://133492548906225",
+        "Image": "rbxassetid://93497163427991",
         "Rarity": "Rare",
         "PlacePrice": 650,
         "Max": 4,
@@ -4676,7 +4676,7 @@
     },
               "Ignited Chica": {
         "Type": "Stun + Splash - Midgame - TJOC",
-        "Image": "rbxassetid://133492548906225",
+        "Image": "rbxassetid://91647780840396",
         "Rarity": "Epic",
         "PlacePrice": 7500,
         "Max": 3,
@@ -4715,7 +4715,7 @@
     },
               "Ignited Freddy": {
         "Type": "Stun - Lategame - TJOC",
-        "Image": "rbxassetid://133492548906225",
+        "Image": "rbxassetid://119803070779296",
         "Rarity": "Mythic",
         "PlacePrice": 10000,
         "Max": 3,
@@ -4754,7 +4754,7 @@
     },
           "Ignited Bonnie": {
         "Type": "Continuous Splash - Lategame - TJOC",
-        "Image": "rbxassetid://133492548906225",
+        "Image": "rbxassetid://112437682809002",
         "Rarity": "Secret",
         "PlacePrice": 75000,
         "Max": 3,
@@ -4793,7 +4793,7 @@
     },
               "Ignited Golden Freddy": {
         "Type": "Slow - Midgame - TJOC Exclusive Pack",
-        "Image": "",
+        "Image": "rbxassetid://134904310692506",
         "Rarity": "Secret",
         "PlacePrice": 5000,
         "Max": 5,
@@ -4832,7 +4832,7 @@
     },
                   "Ignited Shadow Freddy": {
         "Type": "AoE Slow - Lategame - TJOC Pass End",
-        "Image": "",
+        "Image": "rbxassetid://121309305757249",
         "Rarity": "Nightmare",
         "PlacePrice": 15000,
         "Max": 3,
@@ -4877,7 +4877,7 @@
     },
               "Creation": {
         "Type": "Pierce - Lategame - TJOC Season Reward",
-        "Image": "",
+        "Image": "rbxassetid://129059213668336",
         "Rarity": "Nightmare",
         "PlacePrice": 50000,
         "Max": 4,
@@ -4916,7 +4916,7 @@
     },
                   "Endo C Mouth": {
         "Type": "Stun - Midgame - TJOC2",
-        "Image": "rbxassetid://133492548906225",
+        "Image": "rbxassetid://112348102732947",
         "Rarity": "Secret",
         "PlacePrice": 1500,
         "Max": 3,
