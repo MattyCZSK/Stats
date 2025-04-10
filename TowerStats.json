@@ -4635,12 +4635,12 @@
             }
         ]
     },
-              "Ignited Bonnie": {
-        "Type": "Continuous Splash - Lategame - TJOC",
+                  "Ignited Foxy": {
+        "Type": "Cone AoE - Starter - TJOC",
         "Image": "rbxassetid://133492548906225",
-        "Rarity": "Secret",
-        "PlacePrice": 75000,
-        "Max": 3,
+        "Rarity": "Rare",
+        "PlacePrice": 650,
+        "Max": 4,
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
@@ -4650,35 +4650,35 @@
         "Upgrades": [
             {
                 "Price": 0,
-                "Range": 45,
-                "Damage": 250,
-                "Cooldown": 0.05
+                "Range": 10,
+                "Damage": 750,
+                "Cooldown": 0.75
             },
             {
-                "Price": 120000,
-                "Range": 55,
-                "Damage": 1000,
-                "Cooldown": 0.05
+                "Price": 2000,
+                "Range": 12,
+                "Damage": 1250,
+                "Cooldown": 0.5
             },
             {
-                "Price": 200000,
-                "Range": 65,
+                "Price": 3000,
+                "Range": 13,
+                "Damage": 1750,
+                "Cooldown": 0.35
+            },
+            {
+                "Price": 5000,
+                "Range": 15,
                 "Damage": 2500,
-                "Cooldown": 0.05
-            },
-            {
-                "Price": 350000,
-                "Range": 75,
-                "Damage": 5000,
-                "Cooldown": 0.05
+                "Cooldown": 0.25
             }
         ]
     },
-              "Ignited Bonnie": {
-        "Type": "Continuous Splash - Lategame - TJOC",
+              "Ignited Chica": {
+        "Type": "Stun + Splash - Midgame - TJOC",
         "Image": "rbxassetid://133492548906225",
-        "Rarity": "Secret",
-        "PlacePrice": 75000,
+        "Rarity": "Epic",
+        "PlacePrice": 7500,
         "Max": 3,
         "hitboxOffset": {
             "X": 0,
@@ -4689,35 +4689,35 @@
         "Upgrades": [
             {
                 "Price": 0,
-                "Range": 45,
-                "Damage": 250,
-                "Cooldown": 0.05
+                "Range": 15,
+                "Damage": 2000,
+                "Cooldown": 1
             },
             {
-                "Price": 120000,
-                "Range": 55,
-                "Damage": 1000,
-                "Cooldown": 0.05
+                "Price": 10000,
+                "Range": 20,
+                "Damage": 3500,
+                "Cooldown": 0.75
             },
             {
                 "Price": 200000,
-                "Range": 65,
-                "Damage": 2500,
-                "Cooldown": 0.05
+                "Range": 25,
+                "Damage": 6000,
+                "Cooldown": 0.65
             },
             {
                 "Price": 350000,
-                "Range": 75,
-                "Damage": 5000,
-                "Cooldown": 0.05
+                "Range": 30,
+                "Damage": 7500,
+                "Cooldown": 0.5
             }
         ]
     },
-              "Ignited Bonnie": {
-        "Type": "Continuous Splash - Lategame - TJOC",
+              "Ignited Freddy": {
+        "Type": "Stun - Lategame - TJOC",
         "Image": "rbxassetid://133492548906225",
-        "Rarity": "Secret",
-        "PlacePrice": 75000,
+        "Rarity": "Mythic",
+        "PlacePrice": 10000,
         "Max": 3,
         "hitboxOffset": {
             "X": 0,
@@ -4728,27 +4728,27 @@
         "Upgrades": [
             {
                 "Price": 0,
-                "Range": 45,
-                "Damage": 250,
-                "Cooldown": 0.05
+                "Range": 15,
+                "Damage": 8000,
+                "Cooldown": 2
             },
             {
-                "Price": 120000,
-                "Range": 55,
-                "Damage": 1000,
-                "Cooldown": 0.05
+                "Price": 15000,
+                "Range": 15,
+                "Damage": 9500,
+                "Cooldown": 1.75
             },
             {
-                "Price": 200000,
-                "Range": 65,
-                "Damage": 2500,
-                "Cooldown": 0.05
+                "Price": 20000,
+                "Range": 20,
+                "Damage": 12000,
+                "Cooldown": 1.5
             },
             {
-                "Price": 350000,
-                "Range": 75,
-                "Damage": 5000,
-                "Cooldown": 0.05
+                "Price": 25000,
+                "Range": 20,
+                "Damage": 21000,
+                "Cooldown": 1.25
             }
         ]
     },
@@ -4788,45 +4788,6 @@
                 "Range": 75,
                 "Damage": 5000,
                 "Cooldown": 0.05
-            }
-        ]
-    },
-          "Creation": {
-        "Type": "Pierce - Lategame - TJOC Season Reward",
-        "Image": "",
-        "Rarity": "Nightmare",
-        "PlacePrice": 50000,
-        "Max": 4,
-        "hitboxOffset": {
-            "X": 0,
-            "Y": 0,
-            "Z": 0
-        },
-        "Offset": 0.3,
-        "Upgrades": [
-            {
-                "Price": 0,
-                "Range": 25,
-                "Damage": 50000,
-                "Cooldown": 2
-            },
-            {
-                "Price": 80000,
-                "Range": 30,
-                "Damage": 75000,
-                "Cooldown": 1.5
-            },
-            {
-                "Price": 140000,
-                "Range": 40,
-                "Damage": 125000,
-                "Cooldown": 1
-            },
-            {
-                "Price": 200000,
-                "Range": 50,
-                "Damage": 250000,
-                "Cooldown": 0.5
             }
         ]
     },
@@ -4886,25 +4847,70 @@
                 "Price": 0,
                 "Range": 20,
                 "Damage": 1000,
-                "Cooldown": 0.05
+                "Cooldown": 0.1
             },
             {
                 "Price": 35000,
                 "Range": 25,
                 "Damage": 3000,
-                "Cooldown": 0.05
+                "Cooldown": 0.1
             },
             {
                 "Price": 64000,
                 "Range": 30,
                 "Damage": 7500,
-                "Cooldown": 0.05
+                "Cooldown": 0.1
             },
             {
-                "Price": 100000,
+                "Price": 89000,
                 "Range": 35,
                 "Damage": 15000,
-                "Cooldown": 0.05
+                "Cooldown": 0.1
+            },
+            {
+                "Price": 150000,
+                "Range": 35,
+                "Damage": 35000,
+                "Cooldown": 0.1
+            }
+        ]
+    },
+              "Creation": {
+        "Type": "Pierce - Lategame - TJOC Season Reward",
+        "Image": "",
+        "Rarity": "Nightmare",
+        "PlacePrice": 50000,
+        "Max": 4,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Offset": 0.3,
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 25,
+                "Damage": 50000,
+                "Cooldown": 2
+            },
+            {
+                "Price": 80000,
+                "Range": 30,
+                "Damage": 75000,
+                "Cooldown": 1.5
+            },
+            {
+                "Price": 140000,
+                "Range": 40,
+                "Damage": 125000,
+                "Cooldown": 1
+            },
+            {
+                "Price": 200000,
+                "Range": 50,
+                "Damage": 250000,
+                "Cooldown": 0.5
             }
         ]
     },
