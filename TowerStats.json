@@ -4678,7 +4678,7 @@
         "Type": "Stun + Splash - Midgame - TJOC",
         "Image": "rbxassetid://91647780840396",
         "Rarity": "Epic",
-        "PlacePrice": 7500,
+        "PlacePrice": 5000,
         "Max": 3,
         "hitboxOffset": {
             "X": 0,
@@ -4694,19 +4694,19 @@
                 "Cooldown": 1
             },
             {
-                "Price": 10000,
+                "Price": 7500,
                 "Range": 20,
                 "Damage": 3500,
                 "Cooldown": 0.75
             },
             {
-                "Price": 200000,
+                "Price": 10000,
                 "Range": 25,
                 "Damage": 6000,
                 "Cooldown": 0.65
             },
             {
-                "Price": 350000,
+                "Price": 15000,
                 "Range": 30,
                 "Damage": 7500,
                 "Cooldown": 0.5
@@ -4794,7 +4794,7 @@
               "Ignited Golden Freddy": {
         "Type": "Slow - Midgame - TJOCS Exclusive Pack",
         "Image": "rbxassetid://134904310692506",
-        "Rarity": "Secret",
+        "Rarity": "Nightmare",
         "PlacePrice": 5000,
         "Max": 5,
         "hitboxOffset": {
