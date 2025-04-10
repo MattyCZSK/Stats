@@ -1103,7 +1103,7 @@
         ]
     },
     "Summer Toy Bonnie": {
-        "Type": "Starter - Summer",
+        "Type": "Slow - Starter - Summer",
         "Image": "rbxassetid://18255590026",
         "Rarity": "Rare",
         "PlacePrice": 800,
@@ -1848,7 +1848,7 @@
         ]
     },
     "Amalgam": {
-        "Type": "Continuous Midgame - Season 2",
+        "Type": "Continuous Slow - Midgame - Season 2",
         "Image": "rbxassetid://18363541545",
         "Rarity": "Epic",
         "PlacePrice": 2000,
@@ -2173,7 +2173,7 @@
         ]
     },
     "Abyssal Foxy": {
-        "Type": "Continuous Lategame - Limited",
+        "Type": "Continuous Slow - Lategame - Limited",
         "Image": "rbxassetid://18578478327",
         "Rarity": "Secret",
         "PlacePrice": 15000,
@@ -2841,7 +2841,7 @@
         ]
     },
     "The Crying Child": {
-        "Type": "Midgame - Limited",
+        "Type": "Slow - Midgame - Limited",
         "Image": "rbxassetid://18937271323",
         "Rarity": "Secret",
         "PlacePrice": 800,
@@ -2969,7 +2969,7 @@
         ]
     },
     "Nightmare Chica": {
-        "Type": "Splash + Midgame - Season 3",
+        "Type": "Splash + Slow - Midgame - Season 3",
         "Image": "rbxassetid://18975771590",
         "Rarity": "Epic",
         "PlacePrice": 4000,
@@ -3134,7 +3134,7 @@
         ]
     },
     "Nightmare Cupcake": {
-        "Type": "Starter",
+        "Type": "Slow - Starter",
         "Image": "rbxassetid://18978229455",
         "Rarity": "Epic",
         "PlacePrice": 150,
@@ -4392,7 +4392,7 @@
         ]
     },
     "BlindEye Foxy": {
-        "Type": "Midgame - Western",
+        "Type": "Slow - Midgame - Western",
         "Image": "rbxassetid://122884069811995",
         "Rarity": "Secret",
         "PlacePrice": 5000,
@@ -4637,7 +4637,7 @@
     },
                   "Ignited Foxy": {
         "Type": "Cone AoE - Starter - TJOC",
-        "Image": "rbxassetid://93497163427991",
+        "Image": "rbxassetid://133492548906225",
         "Rarity": "Rare",
         "PlacePrice": 650,
         "Max": 4,
@@ -4675,8 +4675,8 @@
         ]
     },
               "Ignited Chica": {
-        "Type": "Splash - Midgame - TJOC",
-        "Image": "rbxassetid://91647780840396",
+        "Type": "Stun + Splash - Midgame - TJOC",
+        "Image": "rbxassetid://133492548906225",
         "Rarity": "Epic",
         "PlacePrice": 7500,
         "Max": 3,
@@ -4714,8 +4714,8 @@
         ]
     },
               "Ignited Freddy": {
-        "Type": "Lategame - TJOC",
-        "Image": "rbxassetid://119803070779296",
+        "Type": "Stun - Lategame - TJOC",
+        "Image": "rbxassetid://133492548906225",
         "Rarity": "Mythic",
         "PlacePrice": 10000,
         "Max": 3,
@@ -4754,7 +4754,7 @@
     },
           "Ignited Bonnie": {
         "Type": "Continuous Splash - Lategame - TJOC",
-        "Image": "rbxassetid://112437682809002",
+        "Image": "rbxassetid://133492548906225",
         "Rarity": "Secret",
         "PlacePrice": 75000,
         "Max": 3,
@@ -4792,8 +4792,8 @@
         ]
     },
               "Ignited Golden Freddy": {
-        "Type": "Midgame - TJOC Exclusive Pack",
-        "Image": "rbxassetid://134904310692506",
+        "Type": "Slow - Midgame - TJOC Exclusive Pack",
+        "Image": "",
         "Rarity": "Secret",
         "PlacePrice": 5000,
         "Max": 5,
@@ -4831,8 +4831,8 @@
         ]
     },
                   "Ignited Shadow Freddy": {
-        "Type": "AoE Lategame - TJOC Pass End",
-        "Image": "rbxassetid://121309305757249",
+        "Type": "AoE Slow - Lategame - TJOC Pass End",
+        "Image": "",
         "Rarity": "Nightmare",
         "PlacePrice": 15000,
         "Max": 3,
@@ -4877,7 +4877,7 @@
     },
               "Creation": {
         "Type": "Pierce - Lategame - TJOC Season Reward",
-        "Image": "rbxassetid://129059213668336",
+        "Image": "",
         "Rarity": "Nightmare",
         "PlacePrice": 50000,
         "Max": 4,
@@ -4915,8 +4915,8 @@
         ]
     },
                   "Endo C Mouth": {
-        "Type": "Midgame - TJOC2",
-        "Image": "rbxassetid://112348102732947",
+        "Type": "Stun - Midgame - TJOC2",
+        "Image": "rbxassetid://133492548906225",
         "Rarity": "Secret",
         "PlacePrice": 1500,
         "Max": 3,
@@ -5041,50 +5041,7 @@
             }
         ]
     },
-            "Fredman 2.0": {
-        "Type": "Cone AoE - Midgame - Limited",
-        "Image": "",
-        "Rarity": "Secret",
-        "PlacePrice": 2500,
-        "Max": 2,
-        "hitboxOffset": {
-            "X": 0,
-            "Y": 0,
-            "Z": 0
-        },
-        "Upgrades": [
-            {
-                "Price": 0,
-                "Range": 25,
-                "Damage": 500,
-                "Cooldown": 0.25,
-            },
-            {
-                "Price": 3000,
-                "Range": 30,
-                "Damage": 750,
-                "Cooldown": 0.2,
-            },
-            {
-                "Price": 4000,
-                "Range": 35,
-                "Damage": 1000,
-                "Cooldown": 0.15,
-            },
-            {
-                "Price": 5000,
-                "Range": 40,
-                "Damage": 1250,
-                "Cooldown": 0.1,
-            },
-            {
-                "Price": 6500,
-                "Range": 50,
-                "Damage": 1500,
-                "Cooldown": 0.05,
-            }
-        ]
-    },
+
     "RWQFSFASXC": {
         "Type": "AOE",
         "Image": "rbxassetid://127646561328941",
