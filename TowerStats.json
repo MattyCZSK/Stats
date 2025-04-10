@@ -5041,7 +5041,50 @@
             }
         ]
     },
-
+            "Fredman 2.0": {
+        "Type": "Cone AoE - Midgame - Limited",
+        "Image": "",
+        "Rarity": "Secret",
+        "PlacePrice": 2500,
+        "Max": 2,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 25,
+                "Damage": 500,
+                "Cooldown": 0.25,
+            },
+            {
+                "Price": 3000,
+                "Range": 30,
+                "Damage": 750,
+                "Cooldown": 0.2,
+            },
+            {
+                "Price": 4000,
+                "Range": 35,
+                "Damage": 1000,
+                "Cooldown": 0.15,
+            },
+            {
+                "Price": 5000,
+                "Range": 40,
+                "Damage": 1250,
+                "Cooldown": 0.1,
+            },
+            {
+                "Price": 6500,
+                "Range": 50,
+                "Damage": 1500,
+                "Cooldown": 0.05,
+            }
+        ]
+    },
     "RWQFSFASXC": {
         "Type": "AOE",
         "Image": "rbxassetid://127646561328941",
