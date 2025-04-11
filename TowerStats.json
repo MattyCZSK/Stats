@@ -4813,19 +4813,19 @@
             {
                 "Price": 6500,
                 "Range": 20,
-                "Damage": 30000,
+                "Damage": 35000,
                 "Cooldown": 1.75
             },
             {
                 "Price": 7500,
                 "Range": 25,
-                "Damage": 40000,
+                "Damage": 50000,
                 "Cooldown": 1.5
             },
             {
                 "Price": 10000,
                 "Range": 30,
-                "Damage": 50000,
+                "Damage": 75000,
                 "Cooldown": 1
             }
         ]
