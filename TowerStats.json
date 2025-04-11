@@ -4792,10 +4792,10 @@
         ]
     },
               "Ignited Golden Freddy": {
-        "Type": "Slow - Midgame - TJOC Prize",
+        "Type": "Slow - Lategame - TJOC Prize",
         "Image": "rbxassetid://134904310692506",
         "Rarity": "Nightmare",
-        "PlacePrice": 5000,
+        "PlacePrice": 10000,
         "Max": 5,
         "hitboxOffset": {
             "X": 0,
@@ -4807,25 +4807,25 @@
             {
                 "Price": 0,
                 "Range": 15,
-                "Damage": 25000,
+                "Damage": 35000,
                 "Cooldown": 2
             },
             {
-                "Price": 6500,
+                "Price": 15000,
                 "Range": 20,
-                "Damage": 35000,
+                "Damage": 50000,
                 "Cooldown": 1.75
             },
             {
-                "Price": 7500,
+                "Price": 20000,
                 "Range": 25,
-                "Damage": 50000,
+                "Damage": 87500,
                 "Cooldown": 1.5
             },
             {
-                "Price": 10000,
+                "Price": 25000,
                 "Range": 30,
-                "Damage": 75000,
+                "Damage": 125000,
                 "Cooldown": 1
             }
         ]
