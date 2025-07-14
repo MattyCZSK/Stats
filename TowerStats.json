@@ -813,6 +813,39 @@
             }
         ]
     },
+       "Time Foxy": {
+        "Type": "Splash Slow",
+        "Image": "rbxassetid://132764752523748",
+        "Rarity": "Twisted",
+        "PlacePrice": 30000,
+        "Offset": 0,
+        "Max": 1,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 30,
+                "Damage": 15000,
+                "Cooldown": 2
+            },
+            {
+                "Price": 37000,
+                "Range": 35,
+                "Damage": 20000,
+                "Cooldown": 1.5
+            },
+            {
+                "Price": 45000,
+                "Range": 45,
+                "Damage": 25000,
+                "Cooldown": 1
+            }
+        ]
+    },
     "Rockin Bonnie": {
         "Type": "AOE",
         "Image": "rbxassetid://17689695988",
