@@ -1463,11 +1463,11 @@
             }
         ]
     },
-    "SpringTrap": {
+ "SpringTrap": {
         "Type": "Pierce",
         "Image": "rbxassetid://18356146630",
         "Rarity": "Nightmare",
-        "PlacePrice": 300,
+        "PlacePrice": 20000,
         "Max": 2,
         "hitboxOffset": {
             "X": 0,
@@ -1477,9 +1477,27 @@
         "Upgrades": [
             {
                 "Price": 0,
-                "Range": 15,
-                "Damage": 100,
-                "Cooldown": 4
+                "Range": 20,
+                "Damage": 1000,
+                "Cooldown": 1
+            },
+            {
+                "Price": 30000,
+                "Range": 22,
+                "Damage": 1200,
+                "Cooldown": 0.95
+            },
+            {
+                "Price": 40000,
+                "Range": 25,
+                "Damage": 1400,
+                "Cooldown": 0.9
+            },
+            {
+                "Price": 50000,
+                "Range": 30,
+                "Damage": 1800,
+                "Cooldown": 0.8
             }
         ]
     },
