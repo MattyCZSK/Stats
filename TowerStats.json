@@ -1233,12 +1233,12 @@
         "Rarity": "Epic",
         "PlacePrice": 500,
         "Max": 6,
+        "Offset": 0.3,
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
             "Z": 0
         },
-        "Offset": -0.4,
         "Upgrades": [
             {
                 "Price": 0,
@@ -1349,12 +1349,12 @@
         "Rarity": "Nightmare",
         "PlacePrice": 20000,
         "Max": 2,
+        "Offset": 0.3,
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
             "Z": 0
         },
-        "Offset": -0.4,
         "Upgrades": [
             {
                 "Price": 0,
