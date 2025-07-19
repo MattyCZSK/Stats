@@ -1238,7 +1238,7 @@
             "Y": 0,
             "Z": 0
         },
-        "Offset": 0.4,
+        "Offset": -0.4,
         "Upgrades": [
             {
                 "Price": 0,
@@ -1354,6 +1354,7 @@
             "Y": 0,
             "Z": 0
         },
+        "Offset": -1.85,
         "Upgrades": [
             {
                 "Price": 0,
