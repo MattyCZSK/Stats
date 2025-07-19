@@ -1227,6 +1227,45 @@
             }
         ]
     },
+     "Octopied Endo": {
+        "Type": "Pierce",
+        "Image": "rbxassetid://122839943652991",
+        "Rarity": "Epic",
+        "PlacePrice": 500,
+        "Max": 6,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Offset": 0.4,
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 27,
+                "Damage": 1250,
+                "Cooldown": 3.5
+            },
+            {
+                "Price": 1650,
+                "Range": 29,
+                "Damage": 1500,
+                "Cooldown": 3.4
+            },
+            {
+                "Price": 2015,
+                "Range": 31,
+                "Damage": 1700,
+                "Cooldown": 3.2
+            },
+            {
+                "Price": 2775,
+                "Range": 33,
+                "Damage": 2000,
+                "Cooldown": 3
+            }
+        ]
+    },
     "Seven Seas Foxy": {
         "Type": "Pierce",
         "Image": "rbxassetid://18255813345",
@@ -1300,6 +1339,44 @@
                 "Price": 20000,
                 "Range": 20,
                 "Damage": 750,
+                "Cooldown": 0.5
+            }
+        ]
+    },
+    "Kiken Mangle": {
+        "Type": "Pierce",
+        "Image": "rbxassetid://86903851510610",
+        "Rarity": "Nightmare",
+        "PlacePrice": 20000,
+        "Max": 2,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 12,
+                "Damage": 3000,
+                "Cooldown": 0.4
+            },
+            {
+                "Price": 22000,
+                "Range": 15,
+                "Damage": 4250,
+                "Cooldown": 0.5
+            },
+            {
+                "Price": 25000,
+                "Range": 18,
+                "Damage": 7500,
+                "Cooldown": 0.4
+            },
+            {
+                "Price": 30000,
+                "Range": 20,
+                "Damage": 16000,
                 "Cooldown": 0.5
             }
         ]
