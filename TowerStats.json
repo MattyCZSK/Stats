@@ -1172,7 +1172,7 @@
         "Type": "Pierce",
         "Image": "rbxassetid://18256011276",
         "Rarity": "Nightmare",
-        "PlacePrice": 10000,
+        "PlacePrice": 12500,
         "Max": 2,
         "hitboxOffset": {
             "X": 0,
@@ -1182,27 +1182,27 @@
         "Upgrades": [
             {
                 "Price": 0,
-                "Range": 12,
+                "Range": 17,
                 "Damage": 400,
-                "Cooldown": 2
-            },
-            {
-                "Price": 12000,
-                "Range": 15,
-                "Damage": 500,
                 "Cooldown": 1.5
             },
             {
-                "Price": 15000,
-                "Range": 18,
-                "Damage": 600,
+                "Price": 12000,
+                "Range": 22,
+                "Damage": 500,
                 "Cooldown": 1
             },
             {
-                "Price": 20000,
-                "Range": 20,
-                "Damage": 750,
+                "Price": 15000,
+                "Range": 25,
+                "Damage": 600,
                 "Cooldown": 0.5
+            },
+            {
+                "Price": 20000,
+                "Range": 26,
+                "Damage": 750,
+                "Cooldown": 0.25
             }
         ]
     },
