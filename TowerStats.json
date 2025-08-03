@@ -2061,7 +2061,7 @@
         "Type": "Continuous Slow",
         "Image": "rbxassetid://18578478327",
         "Rarity": "Secret",
-        "PlacePrice": 15000,
+        "PlacePrice": 5000,
         "Max": 3,
         "hitboxOffset": {
             "X": 0,
@@ -2073,7 +2073,7 @@
             {
                 "Price": 0,
                 "Range": 16,
-                "Damage": 40,
+                "Damage": 45,
                 "Cooldown": 0.07,
                 "ChargeLength": 2.5,
                 "RechargeLength": 5,
@@ -2081,29 +2081,29 @@
                 "SlowTime": 1
             },
             {
-                "Price": 30000,
+                "Price": 15000,
                 "Range": 20,
-                "Damage": 45,
-                "Cooldown": 0.07,
-                "ChargeLength": 2.5,
-                "RechargeLength": 5,
-                "Slow": 0.7,
-                "SlowTime": 1
-            },
-            {
-                "Price": 40000,
-                "Range": 25,
-                "Damage": 50,
-                "Cooldown": 0.07,
-                "ChargeLength": 2.5,
-                "RechargeLength": 5,
-                "Slow": 0.7,
-                "SlowTime": 1
-            },
-            {
-                "Price": 50000,
-                "Range": 30,
                 "Damage": 55,
+                "Cooldown": 0.07,
+                "ChargeLength": 2.5,
+                "RechargeLength": 5,
+                "Slow": 0.7,
+                "SlowTime": 1
+            },
+            {
+                "Price": 25000,
+                "Range": 25,
+                "Damage": 65,
+                "Cooldown": 0.07,
+                "ChargeLength": 2.5,
+                "RechargeLength": 5,
+                "Slow": 0.7,
+                "SlowTime": 1
+            },
+            {
+                "Price": 35000,
+                "Range": 30,
+                "Damage": 85,
                 "Cooldown": 0.07,
                 "ChargeLength": 2,
                 "RechargeLength": 5,
@@ -2111,9 +2111,9 @@
                 "SlowTime": 1
             },
             {
-                "Price": 75000,
+                "Price": 45000,
                 "Range": 35,
-                "Damage": 60,
+                "Damage": 100,
                 "Cooldown": 0.07,
                 "ChargeLength": 2,
                 "RechargeLength": 5,
