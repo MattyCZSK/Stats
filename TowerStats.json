@@ -2337,9 +2337,9 @@
                 "Range": 8,
                 "Damage": 100,
                 "Cooldown": 5,
-                "SummonTime": 15,
+                "SummonTime": 10,
                 "Health": 10000,
-                "WalkSpeed": 14,
+                "WalkSpeed": 30,
                 "Unit": "Clone Guy",
                 "Offset": -1.5
             },
@@ -2350,7 +2350,7 @@
                 "Cooldown": 4,
                 "SummonTime": 10,
                 "Health": 50000,
-                "WalkSpeed": 14,
+                "WalkSpeed": 30,
                 "Unit": "Clone Guy",
                 "Offset": -1.5
             },
@@ -2361,7 +2361,7 @@
                 "Cooldown": 2,
                 "SummonTime": 10,
                 "Health": 250000,
-                "WalkSpeed": 14,
+                "WalkSpeed": 30,
                 "Unit": "Clone Guy",
                 "Offset": -1.5
             },
@@ -2372,7 +2372,7 @@
                 "Cooldown": 1,
                 "SummonTime": 10,
                 "Health": 400000,
-                "WalkSpeed": 15,
+                "WalkSpeed": 30,
                 "Unit": "Clone Guy",
                 "Offset": -1.5
             }
